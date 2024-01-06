@@ -1,49 +1,31 @@
 Innovation is vital for a company’s survival and growth. Firms that don’t innovate fall behind their competitors and ultimately go out of business.
-
 However, traditional forms of innovation may result in profitable products, services, and processes – but also harm employees or over-exploit natural resources.
-
 “Sustainable innovation” seeks to address those unintended social and environmental impacts. It implies that companies can provide products and services that are good for themselves and for society in the long term. This article explains what sustainable innovation means, why it is important, and how to practice it.
-
 The ideas in this article are based on our work at the Innovation Learning Lab at Ivey Business School, where we work with leading corporations and organizations in Canada on pathways to sustainable innovation.
 
 What is Sustainable Innovation?
 Sustainable innovation involves making intentional changes to a company’s products, services, or processes to generate long-term social and environmental benefits while creating economic profits for the firm. That definition comes from researcher Richard Adams, who reviewed academic and industry research on the topic.
-
 Here’s how sustainable innovation works with products, services, and processes.
-
 Developing novel products and services. Through sustainable innovation, companies can invent and offer novel products or services that directly contribute to achieving sustainability.
-
-For example: Fairphone, a Dutch social enterprise, offers consumers fairly-sourced smartphones. Unlike bio-bean, which created novel products (i.e., logs and pellets made out of coffee waste), Fairphone products do not have any new technical features.
-Instead, Fairphone dramatically changed the smartphone production process to make it more responsible and sustainable. They use recycled and responsibly mined materials and provide their workers with fair wages and good labor conditions. Because approximately 80% of the emissions of a smartphone come from its production, Fairphone designs their phones to last. They have a modular design which makes repairs and upgrades easier, thereby significantly reducing e-waste.
 
 How Sustainable Innovation Differs from Traditional Innovation
 Some might wonder how these sustainable innovations differ from traditional forms of innovation. After all, both traditional and sustainability innovation involve developing new products, services, or processes. Three core features set sustainable innovation apart.
-
 Sustainable innovations contribute to sustainable businesses. Sustainable innovation intentionally aims to “meet the needs of present generations without compromising the needs of future generations.” It requires businesses to actively incorporate issues such as human rights, and climate change into their innovation processes. Companies that engage in sustainable innovation go beyond seeking immediate profits. They think long-term, about investing in technologies and people for the future.
-
 Sustainable innovations require systems thinking. When companies engage in sustainable innovation, they do not merely focus on their own organization. Instead, they look more broadly to the whole system of which they are part – including other companies, the natural environment, and stakeholders and communities. They have a good understanding of how their actions affect other organizations and vice versa.
-
 Sustainable innovations must be embedded into firm’s culture. Unlike traditional innovations that are mostly performed within a separate R&D department or unit, sustainable innovations are likely to be more successful when they are deeply embedded in the firm’s culture. When sustainability is not part of the corporate culture, the pursuit of short-term profits will kill sustainability-oriented creative ideas without giving them sufficient time to mature.
 
 Why Innovate Sustainably?
 Ultimately, companies succeed when they are sustainable. First, sustainable companies attract talented employees. Compared to their non-sustainable competitors, sustainability-oriented companies bring in better people. In a recent Deloitte survey of millennials and Gen Zs, 49% said that their personal ethics have played a role in their career choices.
-
 Second, companies that consider stakeholders produce more patents and also more impactful patents, according to research by Caroline Flammer and Aleksandra Kacperczyk. In other words, a sustainability orientation leads to more innovation and better innovation. Firms involved in sustainable innovation think more broadly and learn from different perspectives. They get insights and solutions from afar, e.g. from other industries and stakeholders.
-
 Moreover, companies that care about sustainability are also more resilient compared to their competitors: especially important in a turbulent world. Companies with a sustainability orientation were more likely to survive through crises, experienced less share price volatility, and generated more revenues over the long run than those without a sustainability orientation, according to research by Natalia Ortiz-de-Mandojana and Tima Bansal.
 
 How Do We Make Innovation Sustainable?
 Despite how wonderful it may sound, sustainable innovation does not come easy. Achieving it takes time, commitment, and effort. So: how can firms innovate sustainably?
-
 Sustainable innovation can be put in three broad categories: operational optimization, organizational transformation, and systems building. Researcher Richard Adams and colleagues identified these different categories, shown in the graphic below. They represent a continuum in terms of impact, with “systems building” creating the greatest change.
 
-different types of approaches to drive a sustainable business
 Firms can engage in three types of sustainable innovation
-
 Operational optimization. Firms can improve their operational processes without fundamentally changing their business model. They can find ways to “do the same things better,” and reduce their negative environmental and social impacts (e.g., using renewable energy and reducing packaging). This can be done relatively easily by adding environmental and social criteria to existing quality or profit criteria. This approach is sometimes called “eco-efficiency.”
-
 Organizational transformation. For a greater change, companies can create disruptive new products and services that serve societal needs and/or benefit the environment. This step goes beyond “doing less harm” and focuses on “doing good by doing new things.” These companies also see sustainability as a business opportunity. The sustainable innovation examples mentioned above (i.e., biofuel made out of coffee waste, the smartphone with modular design) show how companies can engage in this kind of sustainable innovation. In order to achieve organizational transformation, firms must radically shift their mindset from doing things better to doing new things.
-
 Systems building. The most advanced form of sustainable innovation involves collaborating with others to create positive impacts on people and the planet. Companies here see themselves as part of an ecosystem and recognize that sustainability can’t be achieved by any single organization. They aim to “do good by doing new things with others.” These system builders extend their thinking beyond the boundaries of the organization to include partners in previously unrelated industries as well as marginalized actors.
 
 Each company will want to assess what type of sustainable innovation makes sense for it. Some companies may move through these types sequentially. Others might engage in multiple approaches to innovation. For example, an oil and gas company can seek efficiencies in reducing carbon emissions, while simultaneously investing in innovations in renewable technologies that will take it out of fossil fuels.
