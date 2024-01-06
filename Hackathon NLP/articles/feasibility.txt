@@ -1,1 +1,2829 @@
+Types of Feasibility
 
+
+
+TECHNICAL FEASIBILITY
+This study centres on the technological resources available to the company. It helps businesses determine whether technical resources are sufficient for the project and whether the technical team is capable of translating concepts into operational systems. The hardware, software, and other technical requirements of the proposed system are also assessed for technical viability.
+
+ECONOMIC FEASIBILITY
+This study usually includes a cost-benefit analysis of the project, which aids businesses in determining the project’s viability, cost and benefits before allocating financial resources. It also boosts project credibility by assisting decision-makers in recognising the proposed project’s favourable economic advantages to the organisation.
+
+LEGAL FEASIBILITY
+This investigation reviews aspects of the proposed project that may be in violation of laws such as zoning requirements, data protection legislation or social media laws. Assuming a business wants to build a new office building in a specific location, a feasibility study may reveal that the company’s planned location is not suitable for that type of business. That organisation has just saved a lot of time and work by recognising that their proposal was not feasible early on.
+
+OPERATIONAL FEASIBILITY
+This research study is to see if, and to what extent, the organisation’s needs can be met by completing the project. Operational feasibility studies also examine how a project plan complies with the criteria established during the system development requirements analysis phase.
+
+SCHEDULING FEASIBILITY
+This inspection is critical for project success; after all, if a project is not completed on time, it will fail. An organisation predicts the amount of time it will take to execute a project when scheduling feasibility.
+
+ 
+
+Importance of Sustainability and Feasibility
+Sustainability strengthens our quality of life while also safeguarding our environment and natural resources for future generations. In the business sector, sustainability is linked to a company’s holistic strategy, which considers everything from manufacturing to logistics to customer service. Going green and sustainable is not just good for business; it also enhances the long-term advantages of an environmental emphasis.
+
+FEASIBILITY IS CRUCIAL BECAUSE IT ENABLES PROJECT MANAGERS IN DETERMINING THE FEASIBILITY OF A PROJECT OR BUSINESS ENDEAVOUR BY IDENTIFYING THE VARIABLES THAT CAN CONTRIBUTE TO ITS SUCCESS. THE ANALYSIS ALSO DEPICTS THE POSSIBLE RETURN ON INVESTMENT AS WELL AS ANY THREATS TO THE VENTURE’S SUCCESS.
+
+How Sustainability and Feasibility are Interlinked
+Climate change and rising wealth disparity have emerged as two major dangers to modern living standards, peace and democracy. In most policy agendas, these two issues are addressed independently. Well, to manage a fair low-carbon transition, a new generation of innovative approaches has been offered. In this spirit, a dynamic microscopic simulation model is always needed to do feasible study for analysing the long-term implications of three scenarios: green growth, social equality measures and de-growth. Green growth, which is based on technological advancement and environmental laws, significantly reduces greenhouse gas emissions at the price of growing economic disparity and unemployment. Direct labour market interventions that result in environmental performance comparable to green growth while maintaining economic development are among the strategies for the social equality scenario. Despite the implementation of a wealth tax, the de-growth scenario adds a fall in consumption and exports, and achieves a bigger reduction in emissions and inequality with a higher public deficit. We believe that revolutionary social policies are both economically and politically feasible and can combine social prosperity with low carbon emissions.
+
+SDGs and the Feasibility of Sustainable Development
+Adopted by the United Nations General Assembly in 2015, the 17 ‘Sustainable Development Goals’ (SDGs) are the blueprint for achieving a better and more sustainable society for all by 2030. These objectives are a rallying cry for action to solve a slew of global issues, including poverty, inequality, climate change, environmental degradation and justice.
+
+
+
+The best way to predict the future is to create it, and feasibility helps in making strategies that help in creating a sustainable future. Feasibility and sustainability are intertwined. Feasibility aids in the analysis of facts in order to make long- term, sustainable judgments while keeping the goal in mind. These SDGs were formed only as a result of the feasibility research, as the outcomes of this study only assisted in making more possible decisions that support sustainability.
+
+Will SDGs be Relevant Post-pandemic?
+Only if governments recast the Goals to be part of the fabric of people’s lives can the SDGs remain relevant during and beyond the COVID-19 pandemic. The SDGs can survive and even thrive feasibly, as they address the dire situation faced by many communities across the world, including people with disabilities, in the same way that the Goals arose from stories at the grassroots level around the world.
+
+Conclusion
+Overall, sustainable development is feasible, or we may argue that sustainability and feasibility go hand in hand. Global development and conservation goals together are indeed possible. We can minimise our exploitation of natural capital while encouraging economic growth and can also confront climate change. The human species is the most unstable and possibly disruptive element in the design. Humans, using contemporary technology, can cause far-reaching and irrevocable changes in the environment, whether purposefully or accidentally. If left to its own devices, the environment can sustain life for millions of years.
+
+‘No matter how complicated global issues appear to be, we are the ones who created them. They can’t possibly be beyond our ability to resolve.’
+
+Sustainable project management encompasses several dimensions. One key dimension is the integration of social, environmental, and economic perspectives into business activities . Another dimension is the alignment of project management processes with sustainability principles, such as resource management, life cycle orientation, stakeholder engagement, and organizational learning . Additionally, sustainable project management involves combining the principles of sustainable management theory with established project management processes and knowledge areas . Control practices play a crucial role in sustainable project management, with a holistic control package that includes indicators and mechanisms for different sustainability dimensions . Finally, the adoption of sustainable practices in project management can lead to reduced costs, increased opportunities and profits, and overall organizational success, although it requires additional commitment and resources .
+
+Phase 3 
+Fundamentals 
+of a 
+Feasibility Study 
+Table of Contents 
+Fundamentals of a Feasibility Study......................................................................................... 4
+WHAT IS A FEASIBILITY STUDY AND WHY DO YOU NEED ONE? ............................................... 4
+WHAT IS THE DIFFERENCE BETWEEN A FEASIBILITY STUDY AND A BUSINESS PLAN?.............. 4
+THE LIFE CYCLE OF A BUSINESS ...................................................................................... 4
+KEYS TO BUSINESS SUCCESS.......................................................................................... 5
+KEYS TO BUSINESS FAILURES ......................................................................................... 6
+IDEA ASSESSMENT......................................................................................................... 8
+What Business are we in? Choosing a Strategic Position ..................................................... 10
+Components of Feasibility Study........................................................................................ 11
+MARKET FEASIBILITY.................................................................................................... 11
+The Industry Description ............................................................................................... 11
+MARKET POTENTIAL ........................................................................................................ 13
+What is marketing?....................................................................................................... 14
+Marketing Plans............................................................................................................ 14
+Market Research .......................................................................................................... 15
+Research Process ......................................................................................................... 15
+Marketing Concepts ...................................................................................................... 17
+Module 3.2 - Developing Sales Forecast.............................................................................. 20
+ESTIMATING MARKET POTENTIAL ................................................................................... 20
+CREATING A PRICE STRATEGY ....................................................................................... 24
+SETTING THE PRICE ..................................................................................................... 24
+BREAKEVEN ANALYSIS.................................................................................................. 25
+PRICING OBJECTIVES ................................................................................................... 26
+Module 3.3 Technical Feasibility .................................................................................... 28
+Site Location................................................................................................................ 28
+Production Assessment ................................................................................................. 29
+Module 3.4 Financial Feasibility ..................................................................................... 30
+Total Capital Requirements ............................................................................................ 30
+Types of Credit ............................................................................................................ 30
+Financial Institution Financing ........................................................................................ 31
+Evaluating Financing Options ......................................................................................... 32
+Loan Security Agreements ............................................................................................. 33
+Types of Loan Security Agreements ................................................................................ 33
+Postponement of a Claim............................................................................................... 33
+Determine the Start-up Financial Requirements ................................................................ 34
+One-time Expenses....................................................................................................... 34
+Operating Expenses ...................................................................................................... 34
+Sensitivity Analysis....................................................................................................... 36
+Module 3.5 Developing Projected Financial Statements ..................................................... 38
+PROJECTED BALANCE SHEET ......................................................................................... 38
+PROJECTED PROFORMA INCOME STATEMENT ................................................................... 39
+FORECASTING CASH FLOW............................................................................................ 40
+Module 3.6 - Establishing Criteria to Proceed or Abandon a Business Idea ............................... 43
+THE IDEA .................................................................................................................... 43
+MANAGEMENT CAPABILITIES ......................................................................................... 43
+TECHNICAL REALITIES.................................................................................................. 44
+MARKET REALITIES ...................................................................................................... 44
+COST AND FINANCIAL REALITIES ................................................................................... 45
+RISK REALITIES........................................................................................................... 45
+Venture Opportunity Screening Exercises (VOSE).............................................................. 46
+Exercises Module 3.......................................................................................................... 49
+Case Study 1.................................................................................................................. 51
+Part 1: The Financial Case Study of Farmer Cooperative Inc. .............................................. 51
+Sample Templates........................................................................................................... 58
+Project Plan................................................................................................................. 58
+Change Request........................................................................................................... 60
+Project Status Report.................................................................................................... 61
+Project Name............................................................................................................... 61
+Client Sign Off ............................................................................................................. 64
+Project Budget Sheet .................................................................................................... 65
+Sample invite to submit a proposal ................................................................................. 66
+Sample Agreement....................................................................................................... 67
+Analysis of major competitors ........................................................................................ 72
+Fundamentals of a Feasibility Study 
+WHAT IS A FEASIBILITY STUDY AND WHY DO YOU NEED ONE? 
+Taking an idea from concept to viable cooperative takes many steps. None more valuable or 
+important than the feasibility study. In the section you will learn the key concepts to allow you to 
+formulate the idea and subject it to rigorous analysis to identify opportunities and challenges that 
+will make the cooperative successful. 
+A feasibility study should provide a comprehensive analysis and evaluation of the market, 
+operational, technical, managerial and financial aspects of your business concept or opportunity. A 
+comprehensive study can then evolve into the market-driven strategic plan that is the road map for 
+all subsequent decisions. 
+A feasibility study provides cooperative project committees with an understanding of the viability of 
+a business concept. 
+A viable business concept must: create or meet a consumer’s 
+need, provide a competitive advantage over a competitor’s 
+product or service, provide superior delivery characteristics 
+and provide a rate of return on investment that is acceptable 
+to the investor (s). 
+When the feasibility study is completed, the steering committee first 
+needs to consider its comprehensiveness and accuracy, rather than 
+immediately focus on its recommendations. It is appropriate to 
+challenge and question the assumptions and conclusions, and not 
+accept the recommendations at face value. 
+ Critical 
+Thinking 
+WHAT IS THE DIFFERENCE BETWEEN A FEASIBILITY STUDY AND A BUSINESS PLAN? 
+A feasibility study is not a business plan. Rather, it provides an assessment of the viability of the 
+business under consideration 
+The business plan focuses on what steps are required to be completed if it is decided to go ahead 
+with the proposed business launch. The feasibility study, however, identifies and analyzes several 
+product or service alternatives and recommends the best business model. 
+THE LIFE CYCLE OF A BUSINESS 
+The life cycle of a business refers to the key stages (start up, growth, maturity and decline) that 
+occur over the life of a business. Each stage has its own unique challenges and opportunities that 
+must be taken into consideration. The business plan should describe a specific strategy for how to 
+deal effectively with each stage. 
+The following provides a description of the four main stages of a business life cycle: 
+1. Start Up 
+In the start-up phase, the product and demand for it is under development. Sales are 
+generally low, and earnings may even be negative. Competition may slowly encroach on 
+earnings during this stage, as other businesses become aware of the market potential. At this 
+stage, demand for the new product or service must be created, requiring intensive marketing 
+campaigns and promotions. There is risk at this stage. Will consumers accept the product or 
+service being offered at the price required? 
+2. Growth Stage 
+In the growth stage, there are increasing sales as the business grows into new markets, and 
+costs fall due to economies of scale, allowing profitability to increase. Within this stage, 
+marketing risk decreases as consumer acceptance and consumer brand loyalty increases. The 
+risk in the growth stage is related to the inevitable increase in competition from new 
+entrants. 
+3. Maturity 
+In this stage, businesses in the industry are becoming more efficient. Those who are more 
+efficient earn a competitive advantage over those who are not. At this stage, however, 
+competition and/or alternative product promotion can be aggressive. The risk in this stage is 
+that increased competition may result in slowing growth rates 
+Decline 
+In the stage of decline, the market has become saturated, the technology changes or 
+consumer tastes have moved on. Sales volume declines if the product or service has not kept 
+up with those changes, or if the industry has moved on to the next thing. Companies in this 
+position may sell production assets that are no longer required, move to areas that offer 
+reduced facility and/or labour costs, withdraw from that market, or merge with other 
+companies. 
+KEYS TO BUSINESS SUCCESS 
+A great business idea is not enough. For a cooperative to turn a great idea into a viable business, a 
+sound business model must be in place. 
+1.) A sound business model drives the business to: 
+ Management - build an experienced management team with a broad range of skills, and 
+seek collaborative decision making that uses all those skills. 
+ Operations Management – create a high-quality product or service, at a price point 
+where profit can be sustained 
+ Generate Sales – offer products or services that consumers will purchase at a price that 
+allow the business to be viable. 
+ Record a Profit – allows for pricing and delivery cost to allow the business to be profitable, 
+even when the per-unit price decreases. 
+ Service Debt – provide for a way to compensate the capital providers for the business’s 
+use of the capital. Regardless of the source, the owners of the capital will want a return on 
+their investment in the business. 
+ Provide Residual Income – allow for the business to generate residual income, which is 
+the amount of profit that remains once all investment costs have been removed. These are 
+the funds to be retained in the business for future growth, or returned to the member 
+through patronage dividends. 
+ Financial Practices – allows for a solid financial planning function and a good 
+understanding of critical financial measures and indicators. It must also have the capacity to 
+understand what the financial statements are showing, including important financial ratios 
+For many cooperative steering committees, cooperative investors and 
+financial institutions reviewing a feasibility plan, the management team 
+is the most important component of the plan. An effective management 
+team should have skills in the following areas: 
+ Marketing 
+ Financial management and finance 
+ Operations management and appropriate technology 
+management (depending on the industry) 
+ People management 
+ Successful experience in the business’s core industry and markets 
+ Critical 
+Thinking 
+KEYS TO BUSINESS FAILURES 
+New businesses are constantly coming into the market, providing every imaginable product, service 
+or good. Some firms survive, others grow, and substantial numbers of new firms fail. 
+Information provided by Statistics Canada reveals that that it is not the absence of sophisticated 
+business strategies that leads many young firms to fail, but rather skill deficiencies in core areas, 
+specifically those related to management and financing. 
+Figure 1 (source – Statistics Canada – Falling Concerns: Business Bankruptcies in Canada 
+– 61-525-XIE) 
+E x te rn a l F a c to rs C o n trib u tin g to B a n k ru p tc ie s
+0 20 40 60 80 100
+C om petition
+C om petition
+C u s to m e r D iffic u ltie s
+G o ve rn m e n t R e g u la tio n s
+F undam ental C hange in the M ark et
+S u p p lie r D iffic u ltie s
+U n fo re s e e n C irc u m s ta n c e s
+F undam ental C hange in the Tec hnology 
+E m p lo y e e F ra u d /Th e ft
+Labour or indus trial R elations Legis lation
+E xtrem e S c ore (% ) 
+Figure 2 (source – Statistics Canada – Falling Concerns: Business Bankruptcies in 
+Canada – 61-525-XIE) 
+In te rn a l F a cto rs C o n trib u tin g to B a n kru p tcie s 
+G eneral M anagem ent
+F inanc ial M anagem ent
+M ark eting C apabilities
+P roduc tion and O perations
+In n o va tio n S tra te g y
+H um an R es ourc e C apabilities
+0 10 20 30 40 50 60 70 80
+Ex tre m e S co re (%)
+IDEA ASSESSMENT 
+Great business ideas can come from many sources, but generally they are a result of creative 
+thinking that reflects new insights into an existing product or service. Every great business idea 
+provides an opportunity to create economic value for the business. 
+The idea must meet or create a customer need, provide a competitive advantage, allow for 
+appropriate time-to-market, and provide a reasonable return to investors. 
+A useful tool to provide an assessment of a business idea is a SWOT analysis created by the Boston 
+Consulting Group. A SWOT analysis is a strategic planning method used to evaluate the Strengths, 
+Weaknesses, Opportunities and Threats that prevail at a particular time, for a project or business
+venture. 
+ Internal factors – The strengths and weaknesses internal to the organization. 
+o Strengths: attributes of the organization that is helpful to achieving the objective. 
+o Weaknesses: attributes of the organization that is harmful to achieving the objective. 
+ External factors – The opportunities and threats presented by the external environment to 
+the organization 
+o Opportunities: external conditions those are helpful to achieving the objective. 
+o Threats: external conditions which could do damage to the business's performance or 
+work against achieving the objective. 
+Within an organization, features that may represent strengths with respect to one objective may be 
+weaknesses for another objective. The factors may include personnel, finance, manufacturing 
+capabilities, and so on. 
+External factors may include macroeconomic matters, technological change, legislation, and sociocultural changes, as well as changes in the marketplace or competitive position. 
+The results of a SWOT are often presented in the form of a matrix. 
+The next steps in planning for achievement of the selected objective can follow from whatever is 
+revealed in the SWOT. 
+The plan needs to show how the business will use its strengths, mitigate or backfill its weaknesses, 
+seize opportunities and defuse or dodge threats. 
+A SWOT analysis is just one method of analysis, and has its own weaknesses. For example, it may 
+tend to persuade companies to compile lists, rather than think about what is actually important in 
+achieving objectives. It may also present the resulting lists uncritically and without clear 
+prioritization so that, for example, weak opportunities may appear to balance strong threats. 
+It is prudent not to prematurely eliminate any candidate SWOT entry. The importance of each item 
+generated will be revealed by the value of the strategies it generates. A SWOT item that produces 
+valuable strategies is important. A SWOT item that generates no strategies is not important. 
+Guidelines for of completing a SWOT Analysis 
+ Be as specific as possible. Avoid any grey areas or generalities. 
+ Describe internal factors in terms of the competition: as superior, better than, equal to or 
+worse than your competition. 
+ Be as realistic as possible regarding your strengths and weaknesses. 
+ Always be Objective and 
+ Keep the SWOT analysis as simple as possible, but include any and all relevant issues. 
+ One of the points of doing a SWOT analysis is that it helps to generate an appropriate and 
+open conversation among the group, about the reality of the situation. A realistic assessment 
+increases the opportunity to create an effective plan. Try to use the SWOT to generate that 
+conversation. 
+ SWOT Analysis for Initial Business Idea or Feasibility of the Business Idea 
+Supportive to the 
+Objective Harmful to the Objective 
+Strengths Weaknesses 
+1.) 1.) 
+2.) 2.) 
+3.) 3.) 
+4.) 4.) 
+H
+i
+g
+h 
+5.) 5.) 
+1.) 1.) 
+2.) 2.) 
+3.) 3.) 
+4.) 4.) 
+Internal 
+Attributes of the organization 
+L
+o
+w 
+5.) 5.) 
+Opportunities Threats 
+1.) 1.) 
+2.) 2.) 
+3.) 3.) 
+4.) 4.) 
+H
+i
+g
+h 
+At the bare minimum, a SWOT analysis should consider the following: 
+Potential Strengths or Weaknesses: 
+1.) Customer Need 
+2.) New Product 
+3.) Intellectual Property Rights 
+4.) Low-cost Product 
+5.) High-quality Product 
+6.) Expertise and Capacity in the Business 
+Potential Opportunities or Threats 
+1.) Existing Competition 
+2.) Market Size and Scope 
+3.) New Technologies 
+4.) Alternative Products 
+5.) Market Share Potential 
+5.) 5.) 
+1.) 1.) 
+2.) 2.) 
+3.) 3.) 
+4.) 4.) 
+External
+Attributes of the Environment 
+L
+o
+w 
+5.) 5.) 
+What Business are we in? Choosing a Strategic Position 
+In every industry, there are a number of strategic positions that companies can occupy. For example 
+Chevrolet has produced mid-priced cars for the North American market, while Ferrari produces very 
+expensive cars for the world market. Both companies have been successful within the market they 
+have chosen to occupy. 
+The question is not what the strategy is, but whether the company 
+has one strategic position that it can claim as its own. The 
+strategic position is defined by the answers to the following 
+questions: 
+1.) Who is my target customer? 
+2.) What products or services will we offer to those customers? 
+3.) How will we provide the products or services? (delivery choices, 
+pricing, terms) 
+ Critical 
+Thinking 
+Defining a strategic position is done by identifying what products and services the business will offer, 
+and which will not be offered. It is the act of choosing a distinctive strategy that will make the 
+business successful. 
+What business are we in? is really a key question. The cooperative’s steering committee can benefit 
+from identifying and questioning assumptions and beliefs about what it intends to offer, and who the 
+customers really are. Many businesses, in changing times, have proceeded in the belief that they 
+were in a certain business, and found out they were really in another. 
+The strategy must bridge the gap between what the customer wants and what the company does. 
+Businesses must make this connection and the strategy helps to determine what the company 
+spends its time doing. Each activity in a company must lead to or support the appropriate delivery of 
+the product or service to the customer. Internally, each activity in a business affects all the other 
+activities. 
+Components of Feasibility Study 
+The components of feasibility are outlined in this section to provide a cooperative with a guide when 
+developing a study or have received a completed study from a consultant. In order for a business to 
+succeed the feasibility study is the first step to creating a viable business entity. 
+MARKET FEASIBILITY
+Market feasibility identifies whether the product or service is viable within the competitive 
+environment of the industry or marketplace. The study needs to identify and assess individual 
+opportunities, and provide rationalization to proceed with that opportunity, or assess other 
+alternatives. The study needs to include the total market potential and incorporate customer 
+opinions regarding the particular service or product. 
+The Industry Description
+The industry description examines the industry or market segment and provides an assessment of 
+its potential size and scope. The industry description should determine if the industry or market 
+segment is stable, expanding or contracting, and what part of the industry life cycle it occupies. The 
+description should also discuss the industry’s primary purpose, market served, scope in terms of 
+annual sales, range of products and services, customer groups and major competitors. The history of 
+the industry, how it changed and grown (or contracted) over time is also helpful. Changes in 
+consumer demand, products and services, delivery and distribution models should be considered. 
+Here are some of the concepts that an industry description will help with: 
+1. Industry Competitiveness 
+Traditionally, competition between two or more businesses drives profits lower. A highly 
+concentrated industry or market segment is one in which market share is held by the few largest 
+companies. When a very few companies hold, the vast majority of market share, there may be 
+very little actual competition and the market may appear closer to a monopoly. An industry or 
+market segment is considered to have low concentration when many companies own a small 
+share of the market. An industry with very low concentration industry is considered to be 
+fragmented, and as such can be highly competitive. 
+The amount of competition within an industry or market segment is influenced by the following: 
+ Large number of businesses – This increases competition as many companies compete for a 
+limited number of consumers and inputs. 
+ Low market growth – This result in firms having to struggle for a slowly growing market 
+share. 
+ High fixed costs – When an industry has high fixed costs (the cost of getting into and staying 
+in the business), then players need to look for efficiencies in the size of their operation to 
+achieve economies of scale and increase their potential profit. 
+ Perishable goods – These are required to be sold quickly, and cannot be inventoried for long. 
+This may lead to price cutting and other competitive dynamics, as businesses may need to 
+unload large volumes of the same product around the same time. 
+ Limited exchange costs – This has to do with the cost to the customer of exchanging or 
+switching products or services. 
+ Industry or market segment consolidation cycles – If competition increases to a point where 
+there are so many suppliers that supply starts to exceed demand, some businesses will fail 
+and the industry will consolidate to the point where the supply meets demand. 
+2. Barriers to Entry 
+In theory, given a supply of capital, businesses should be able to enter an industry or market 
+segment without barriers. In reality, this is seldom the case. There are a number of factors that 
+restrict the ability of new businesses to enter and start operating in a particular industry. 
+The ease with which someone else can enter a market determines the likelihood that a business will 
+face new competitors. The easier it is to enter the industry or market, the faster profits will be 
+eroded by competition. On the other hand, the harder it is for new entrants to appear, the longer the 
+competitive advantage lasts. Mature businesses have often developed greater operational 
+efficiencies because they faced the pressure of competition and found ways to dig in and remain 
+viable. 
+The ease of entry into an industry or market segment depends upon two factors: how high are the 
+barriers to entry in that industry, and how existing players react to new entrants. Existing 
+competitors are most likely to react strongly against new entrants when there is a history of such 
+behaviour, when the existing competitors have invested substantial resources, and when the 
+industry is characterized by slow growth. In other words, the more that existing businesses have 
+invested in the game, and the less there is to go around, the more likely they are to react strongly 
+against newer players. 
+In Michael E. Porter’s book Competitive Strategy Techniques for Analyzing Industries and 
+Competitors, - Simon & Schuster - 1980 six major barriers to market entry are identified: 
+Barriers to Market Entry 
+1. Economies of scale. Economies of scale occur when the unit cost of a product declines as 
+production volume increases. When existing competitors in an industry have achieved 
+economies of scale, new entrants face a barrier because they must either compete on a 
+large scale right away, or accept a cost disadvantage in order to compete on a smaller 
+scale. 
+2. Product differentiation. In many markets and industries, established competitors have 
+gained customer loyalty and brand identification through their long-standing advertising 
+and customer service efforts. This creates a barrier to market entry by forcing new 
+entrants to spend time and money to differentiate their products in the marketplace and 
+overcome these loyalties. 
+3. Capital requirements. Another type of barrier to market entry occurs when new entrants 
+are required to invest large financial resources in order to compete in an industry. For 
+example, certain industries may require capital investments in inventories or production 
+facilities. Capital requirements form a particularly strong barrier when the capital is 
+required for risky investments like research and development. 
+4. Switching costs. A switching cost refers to a one-time cost that is incurred by a buyer as 
+a result of switching from one supplier's product to another's. Some examples of switching 
+costs for a business customer include re-training employees, purchasing support 
+equipment, enlisting technical assistance and redesigning products. 
+1. Access to channels of distribution. In many industries, established competitors control the 
+logical channels of distribution through long-standing relationships. In order to persuade 
+distribution channels to accept a new product, new entrants often must provide incentives in 
+the form of price discounts, promotions, and cooperative advertising. Such expenditures act 
+as a barrier by reducing the profitability for new entrants. 
+2. Government policy. In industries that are highly regulated, government policies can limit or 
+prevent new competitors from entering industries, through licensing requirements, limits on 
+access to raw materials, pollution standards, product testing regulations or other compliance 
+issues. 
+Established competitors also have a number of other cost advantages that act as barriers to market 
+entry when they cannot be duplicated by new entrants, such as proprietary technology, favourable 
+locations, government subsidies, good access to raw materials and experience and learning curves. 
+3. Analysis of major competitors 
+A competitor analysis is an essential component of cooperative strategy. The competitor analysis is 
+an assessment of the strengths and weaknesses of current and potential competitors. First, it 
+identifies opportunities (any strategic weaknesses in rivals) and threats. Second, competitor profiling 
+will allow the business to anticipate how competitors might respond to new entrants. Third, this 
+knowledge will allow the business to consider strategies to respond to competitor behaviours. 
+A competitor analysis should include: 
+ An understanding of a key competitor’s vision, mission and objectives, allowing a new 
+business to consider how its own guiding statements differ. 
+ Identification of product or market segment strengths and weakness, to enable the new 
+business to consider new and innovative products; 
+ A determination of the size, configuration and operations of the competitor, which will allow 
+new business owners to create realistic business projections based on appropriately priced 
+products; 
+ An analysis of how competitors use their distribution channels and direct sales activities; 
+ A listing of the competitive payment terms and discounts, in order to make negotiating 
+similar conditions simple; and 
+ A sampling of the competitor’s marketing communications, which will allow a new business to 
+create their own marketing communication plan to differentiate themselves. 
+A common technique is to create detailed profiles on each of your major competitors. These profiles 
+give an in-depth description of the competitor's background, finances, products, markets, facilities, 
+personnel and strategies. 
+MARKET POTENTIAL 
+Market Potential is essential in determining the total sales for a given market. The analysis must 
+provide a determination if the market is large enough to sustain the business entry in light of the 
+competitive market conditions. The cooperative will require detail information providing specific 
+information to be able to make an informed decision to proceed or abandon the business idea. 
+What is marketing? 
+Marketing is described by the American Marketing Association as “an organizational function and a 
+set of processes for creating, communicating, and delivering value to customers and for managing 
+customer relationships in ways that benefit the organization and its stakeholders. Marketing 
+management is a process of setting marketing goals for an organization (considering internal 
+resources and market opportunities), the planning and execution of activities to meet these goals, 
+and measuring progress toward their achievement. 
+Marketing is based on the importance of customers to a business and 
+has two important principles: 
+ All company policies and activities should be directed toward 
+satisfying customer needs; and 
+ Profitable sales volume is more important than maximum sales 
+volume. 
+To best use these principles, a small business should: 
+ Determine the needs of their customers through market 
+research; 
+ Analyze their competitive advantages to develop a market 
+strategy; 
+ Select specific markets to serve by target marketing; and 
+ Determine how to satisfy customer needs by identifying a market 
+mix 
+ Critical 
+Thinking 
+Marketing Plans 
+The key component of a business plan is the marketing plan. A good marketing plan summarizes the 
+who, what, where, when, and how much questions of company marketing and sales activities for the 
+planning year: 
+ Who are our target buyers? 
+ What sources of uniqueness or positioning in the market do we have? 
+ Where will we implement our marketing spending plans? 
+ When will marketing spending plans occur? 
+ How much sales, spending, and profits will we achieve? 
+The financial projections contained in your business plan are based on the assumptions contained in 
+your marketing plan. It is the marketing plan that details when expenditures will be made, what 
+level of sales will be achieved, and how and when advertising and promotional expenditures will be 
+made. Here are the major elements of a marketing plan: 
+ Situation Analysis - describes the total marketing environment in which the company 
+competes and the status of company products and distribution channels. 
+ Opportunity and Issue Analysis - analyzes the major external opportunities and threats to 
+the company and the internal strengths and weaknesses of the company, along with a 
+discussion of key issues facing the company. 
+ Goals and Objectives - outlines major company goals and the marketing and financial 
+objectives. 
+ Marketing strategy - provides the company's marketing strategy statement, summarizing 
+the key target buyer description, competitive market segments the company will compete in, 
+the unique positioning of the company and its products compared to the competition, the 
+reasons why it is unique or compelling to buyers, price strategy versus the competition, 
+marketing spending strategy with advertising and promotion, and possible Research and 
+development and market research expenditure strategies. 
+ Sales and Marketing Plan - outlines each specific marketing event or action plan to 
+increase sales. For example, it may contain a summary of quarterly promotion and 
+advertising plans, with spending, timing, and share or shipment goals for each program. 
+Market Research 
+Market Research is the function that links the businesses products or services with the consumer. 
+Market research is the systematic gathering, recording, and analyzing of data about your market. 
+This information is used to identify and define market opportunities and threats; generate, refine, 
+and evaluate marketing actions; monitor marketing performance; and improve understanding of the 
+market dynamics. Market research specifies the information required to address these issues, and 
+communicates the findings and their implications. 
+Market research asks the following questions: 
+ Who are my customers and potential customers? 
+ What kind of people are they? 
+ Where do they live? 
+ Can and will they buy? 
+ Am I offering the kinds of goods or services they want at the best place, at the 
+best time, and in the right amounts? 
+ Are my prices consistent with what buyers view as the product's value? 
+ Are my promotional programs working? 
+ What do customers think of my business? 
+ How does my business compare with those of my competitors? 
+Market research focuses and organizes marketing information. It ensures that such information is 
+timely and permits businesses to: 
+ Reduce business risk 
+ Spot current and upcoming problems in the current market 
+ Identify sales opportunities 
+ Develop plans of action 
+Research Process 
+Businesses may conduct market research at varying degrees of complexity or frequency. For 
+example, a business might use a simple questionnaire to determine the demand in a small market, 
+or may hire a professional market research firm to conduct research to assist them in developing a 
+marketing strategy to launch a new product. Larger firms may have their own specialists on staff. 
+Regardless of the simplicity or complexity of your market research project, the Small Business 
+Association of America believes that the following seven market research steps must be completed 
+to provide accurate information: 
+Step One: Define Marketing Problems and Opportunities 
+The market research process begins with identifying and defining the problems and opportunities 
+that exist for your business, such as: 
+ Launching a new product or service 
+ Low awareness of your company and its products or services 
+ Low uptake of your company's products or services (the market is familiar with your 
+company, but still is not doing business with you) 
+ A poor company image and reputation 
+ Problems with distribution; your goods and services are not reaching the buying public in a 
+timely manner 
+Step Two: Set Objectives, Budget, and Timetables 
+Objective: With a marketing problem or opportunity defined, the next step is to set objectives for 
+your market research operations. 
+Budget: How much money are you willing to invest in your market research? How much can you 
+afford? Your market research budget is a portion of your overall marketing budget. If you are 
+planning on launching a new product or business, market research should account for as 
+much as 10 per cent of your expected gross sales. 
+Timetables: Prepare a detailed, realistic timeframe to complete all steps of the market research 
+process. If your business operates in cycles, establish target dates that will allow the best 
+accessibility to your market. 
+Step Three: Select Research Types, Methods, and Techniques 
+There are two types of research: primary research (original information gathered for a specific 
+purpose) and secondary research (information that already exists somewhere but needs to be 
+interpreted for your use). 
+Step Four: Design Research Instruments 
+The most common research instrument is the questionnaire. Keep these tips in mind when designing 
+your market research questionnaire. 
+ Keep it simple. 
+ Begin the survey with general questions and move towards more specific questions. 
+ Design a questionnaire that is graphically pleasing and easy to read. 
+ Remember to pre-test the questionnaire. 
+ Mix the form of the questions. 
+Step Five: Collect Data 
+To help you obtain clear, unbiased and reliable results, collect the data under the direction of 
+experienced researchers. 
+Step Six: Organize and Analyze the Data 
+Once your data has been collected, it needs to be cleaned. Cleaning research data involves editing, 
+coding, and tabulating results. To make this step easier, start with a simply designed research 
+instrument or questionnaire. 
+Step Seven: Present and Use Market Research Findings
+Once marketing information about your target market, competition and environment is collected and 
+analyzed, present it in an organized manner for use by the business. 
+Marketing Concepts
+1. Commodities and Differentiated products
+Commodities and differentiated products are the two ends of the product spectrum. A product is a 
+commodity when all units of production are identical, regardless of who produces them. A 
+differentiated product can be easily distinguished from those of its competitors. On the continuum 
+between commodities and differentiated products, there are many degrees and combinations. 
+Commodities 
+A commodity means that each unit of a commodity is exactly like every other unit. For example, 
+every bushel of number 1 Canadian Red Spring Wheat 11.5 per cent protein can be substituted for 
+every other bushel of number 1 Canadian Red Spring Wheat 11.5 per cent protein. Because the 
+identity of each producer’s wheat does not have to be kept separate, the wheat from many farmers 
+can be mixed together. This also means that the price for wheat on any given day, at any given 
+location, is the same for all farmers. 
+Commodities tend to be raw materials like corn, wheat, copper, crude oil, etc. Only commodities can 
+be traded on “futures” markets because every unit is the same. Commodities are often inputs to 
+other (“finished”) products. These finished products may in turn be differentiated ones. 
+2. Price Takers 
+People that produce commodities are referred to as “price takers.” This means that an individual 
+producer has no control over his/her price. On any day, the producer must take what the market 
+offers. 
+3. Differentiated Products 
+A company’s product is a differentiated product if it is unique and cannot be substituted for a 
+competitor’s product. If the product is different, the producer can make the case that it is better. If 
+it is a better product, in the eyes of customers, and they are willing to pay more, then the company 
+can charge a higher price for it. The customers can see a difference in value between it and a 
+possible substitute. 
+4. Price Maker 
+The producer of a differentiated product is said to be a price maker rather than a price taker. A price 
+maker has some influence over price, but not as much as most people believe. Essentially, a 
+producer of a differentiated product creates a separate market for that product, to the extent that 
+they are able to do so through marketing activities and demand. 
+5. Perceptions Are Everything 
+There is the false perception in agriculture that the emergence of niche markets provides for 
+unlimited product differentiation. For example, the organic milk market niche offers you the 
+opportunity to differentiate your milk from commodity milk. While it does allow you to differentiate 
+your milk from commodity milk, your organic milk is not necessarily a differentiated product. 
+Producing organic milk puts you in a different (albeit smaller) commodity market. Your product is no 
+different than any other organic producer’s milk. 
+6. The Value Added Differentiated Fallacy 
+Differentiation only takes place when the product you produce is seen as different. So you need to 
+convince organic milk purchasers that your organic milk is better than that of your competitors. One 
+way of doing this is to create a brand for your product (e.g. Johnson’s Better Organic Milk), and 
+promote your brand to organic milk purchasers. 
+7. Target Marketing 
+Target Marketing is the practice of directing the marketing effort at a specific market segment. A 
+target market, or segment, on which a business may focus, is a group of potential buyers that the 
+business believes will want to or do want to buy that product. 
+Defining a target market is the process of pulling apart the potential 
+market as a whole and defining and isolating the manageable, 
+disparate units that will make up the segment. 
+The process includes: 
+1.) Determining the unique characteristics of segments in the 
+target market, then finding these segments in the larger 
+market based on those characteristics. 
+2.) Checking to see whether any of the market segments are 
+large enough, and have the buying power, to support the 
+organization's product. If not, the organization must return 
+to step one (or review its product to see if it is viable). 
+3.) Once it is clear how to find the desired target market, the 
+business can develop its marketing strategy to reach it. 
+ Critical 
+Thinking 
+8. What is Branding? 
+Branding is one of the most important factors influencing an item's success or failure in today's 
+marketplace. A brand is a combination of name, words, symbols, design, reputation and association. 
+It identifies a product and/or its company and differentiates it from competition. 
+9. Niche Marketing
+Niche marketing is marketing a product or service in a small portion of a market that is not being 
+readily served by the mainstream product or service providers. These “niches” can be geographic 
+areas, a specialty industry, a specific demographic or ethnic group, one gender, a specific interest 
+group, or other special group of people. 
+10. Ethnic Marketing 
+What is ethnicity? It is a multidimensional expression of identity that includes race, origin or 
+ancestry, language and religion. It is influenced by immigration, blending and intermarriage, which 
+very often influence the strength of ethnic identification. It is often associated with cultural practices, 
+customs and beliefs and sometimes dress and eating habits. Ethnicity depends partly on selfidentification. Everyone chooses whether they want to identify with a particular ethnic group or not. 
+Identifying with more than one group is more and more common, as cultural mixing is increasingly 
+on the rise. 
+Module 3.2 - Developing Sales Forecast 
+Sales forecasting is the process of organizing and analyzing information in a way that makes it 
+possible for the business to estimate future sales. 
+The forecast estimates the number of units of product or service a business will sell within a 
+specified time period and at a given price. Sales forecasting is one of the most difficult portions of 
+the feasibility study, but one of the most important. Sales forecasts for a start-up cooperative are 
+inherently more difficult than forecasting for more mature cooperatives. Nevertheless, an educated 
+estimate, based on market data collected in a systematic fashion, is extremely important to 
+investors and financial institutions considering supplying capital to the cooperative. 
+The true value in making a forecast is that it forces us to look at the future 
+objectively. It will also help establish policies so that the business can easily monitor prices and 
+operating costs to maximize profits, and make the business aware of problems before they 
+become major. 
+Companies that use accurate sales forecasting processes realize important benefits such as: 
+1. Detailed consumer pattern information; 
+2. Identification of sales patterns or trends (seasonality); 
+3. Knowledge of the production process 
+4. Planned production and capacity; and 
+5. Inventory control, manageable overhead costs. 
+The combination of these benefits may result in: 
+ Increased revenue; 
+ Increased customer retention; 
+ Decreased costs; 
+ Increased efficiency; and 
+ Increased profitability. 
+For sales forecasting to be valuable to your business, it must not be treated as an isolated exercise. 
+Rather, it must be integrated into all facets of your organization. 
+ESTIMATING MARKET POTENTIAL 
+An estimate of market potential reveals whether a market is sufficient to support the size and scope 
+of the business being contemplated. The market potential provides information for sales forecasting, 
+which in turns helps determine the overall feasibility of the business idea. The market potential 
+estimate generally provides the upper end of the potential market, expressed in either units or sales. 
+It is reasonable to assume that with appropriate marketing techniques and competitive pricing, the 
+business can occupy a portion of the overall potential market. 
+Steps in Estimating Market Potential: 
+1.) Define your target market and market segments; 
+2.) Define the geographic boundaries of the market; 
+3.) Assume an average selling price (from the competitive analysis) ; and 
+4.) Determine the average annual consumption. 
+Consumption rates or usage rates can be estimated by researching through trade association 
+materials, reference guides found in many libraries (such as the Business Directory, Trade and 
+Professional Association of Canada), and the National Reference Book. Once this information has 
+been estimated, the following formula can derive an estimated market potential. 
+Estimated Market Potential: MP = N x P x Q, where: 
+MP = Market Potential 
+N = Number of Possible Buyers 
+P = Average Selling Price 
+Q = Average Annual Consumption Rate 
+ 
+Remember, the better the estimates that go into the formula, the better the estimate of the 
+potential market. 
+Trade Area Analysis is a means of evaluating the potential retail sales for a specific operation 
+using a standard formula: 
+Estimated Sales for a Trade Area: 
+ES = P x EXP x (PS/TMS) x MS, where 
+ES = Estimated Sales 
+P = Market Area Population 
+EXP= Average Expenditures for Retail Outlet Category 
+PS = Proposed Store Space 
+TMS= Total Market Selling Space 
+MS = Estimated Market Share 
+Example A – Feasibility Analysis for a Locally Owned Cooperative Hardware Store in 
+Anytown, Manitoba. 
+Step 1: Calculate Market Potential (example only) 
+1. Market Area Population (P). The market area is the population of Anytown plus the 
+surrounding area. This region includes the towns within a 50 km radius of Anytown. The 
+population of this market area is approximately 16,500. (Source – Anytown Community 
+Profile, 2006 edition - Statistics Canada) 
+2. Sales for the Market Area (EXP). The per capita annual sales for hardware stores at a retail 
+outlet in the market area will be determined by accessing the following sources: 
+1.) the wholesale company that will provide statistics on average hardware 
+expenditures based on other locally owned cooperative hardware stores in similarly 
+sized communities. 
+2.) if this information is not available, find the per capita sales by taking Canadian or 
+provincial hardware sales, divided by the respective population. This information is 
+available from Statistics Canada. 
+Hardware Sales (2006) = Per Capita Sales 
+ Population of Canada (2006) 
+$8,219,353,200 = $260 
+ 31,612,897 
+Once the per capita sales have been determined, this number can be applied to the market 
+area population. 
+Anytown = Population x Per Capita Sales 
+ = 9,200 x $260 
+ = $2,292,000 
+Surrounding Area = Population x Per Capita Sales 
+ = 6,700 x $260 
+ = $1,742,000 
+Thirty-eight per cent of the surrounding area purchased hardware items in Anytown, multiply 
+this figure by 0.38: 
+Surrounding Area = $1,742,000 x 0.38 
+ = $661,960 
+Total Market Potential = $2,292,000 + $661,960 
+ = $2,953,960 
+3. Adjustments. Typical adjustments might include updating secondary information regarding 
+population and purchases by applying past trends. 
+Step 2: Calculate Market Share (MS) 
+1.) Estimate the selling space in the market. There is one other hardware store in Anytown with 
+a size of 3,000 square metres. 
+2.) Size of proposed store. The size of the proposed hardware store is 4,500 square metres. 
+3.) Calculation of market share. Percentage share of the market: 
+Proposed Store Selling Space = 4,500 m = 60% 
+ Total Selling Space 3,000 m + 4,500 m 
+4.) Adjustments. The percentage of the market share would probably have to be decreased, 
+because the proposed hardware retailer is new and would not have built up the customers or the 
+reputation of an existing store. Based on the above factors, market share has been adjusted by 
+10 per cent to 50 per cent. 
+5.) Multiple Market Share x Market Potential = Estimated Market Share 
+$2,953,960 x 50% = $1,476,690 
+Step 3: Calculation of Net Income and Cash Flow 
+Amount Percent 
+of Sales 
+Source of Information 
+Sales $1,476,690 100.00% From calculation above 
+Less: Cost of Goods Sold $959,850 65.00% From wholesale supplier 
+Gross margin $516,840 35.00% 
+Management Salary $65,000 14.06% From Stats Canada (average salary cost) 
+Employee Salary $200,000 43.25% Stats Canada – operating results for Hardware Stores 
+Rental of Building $75,000 16.22% Primary Research – provided by owners of building 
+Utilities $18,000 3.89% Primary Research – provided by owners 
+Accounting, Taxes $8,000 1.79% Stats Canada – operating results for Hardware Stores 
+Advertising $18,000 3.89% Stats Canada – operating results for Hardware Stores 
+Insurance & Licenses $6,000 1.30% Primary Research – confirmed by Insurance Agencies 
+Repairs & Maintenance $3,500 0.76% Stats Canada – operating results for Hardware Stores 
+Office Supplies $6,000 1.30% Stats Canada – operating results for Hardware Stores 
+Bad Debts $5,000 1.08% Stats Canada – operating results for Hardware Stores 
+Depreciation Attachment 
+2 
+$25,600 5.54% Depreciation Schedule 
+Interest Charges $16,800 3.63% Schedule 3 – Interest Charges 
+Bank/Credit Union 
+Charges 
+$1,500 0.32% Primary Research – Bank/Credit Union Posted Charges 
+Total Expenses $462,400 
+Net Income before 
+Income Taxes 
+$54,400 
+Attachment 1 – Obtained from Stats Canada – operating results for Hardware Stores 
+Employee Salaries 
+3 Full Time Sales Persons $105,000 
+1 Full Time Accountant $50,000 
+1 Full Time Cashier $35,000 
+1 Part Time Cashier $10,000
+Total $200,000 
+Attachment 2 – Depreciation Expense 
+Equipment Cost = $128,500 – Capital Cost Allowance (CCA) = 20% (provided by Revenue Canada) 
+Year Un-depreciated 
+Amount 
+CCA Depreciation 
+2009 $128,000 20% $25,600 
+2010 $102,400 20% $20,480 
+2011 $81,920 20% $16,384 
+2012 $65,536 20% $13,107 
+2013 $49,152 20% $10,486 
+Attachment 3 – Interest Expense 
+Amount Borrowed ................... $210,000 
+Interest Rate....................................8% 
+Interest Costs ........................... $16,800 
+CREATING A PRICE STRATEGY 
+The price of the product may need to support a high-cost manufacturing process, or exclusive 
+distribution system, or extensive advertising. On the other hand, pricing adjustments can 
+compensate for a lower quality product, less effective promotions, or erratic merchandising efforts 
+by distributors. 
+Creating an effective pricing strategy should accomplish four goals: 
+1.) Provide a rate of return to the business that is acceptable to the cooperative. (e.g. 
+generate profit); 
+2.) Take into consideration consumers’ demand at the price that is set; 
+3.) Take into consideration the image or branding of the product or service; and 
+4.) Take into consideration quality of the product, the type of distribution channels, and the 
+quality of promotion. 
+SETTING THE PRICE 
+Many start-up businesses that are looking at setting the price for a product or service ask the 
+question, “What price should I charge?” However, in creating a pricing strategy, a more customerfocused question to ask is, “What is the value to the customer of the product or service and other 
+intangibles provided by the business?” 
+In order for a business to survive in the long term, the pricing must cover the total cost of operating 
+the business, plus a rate of return to the cooperative. 
+Total revenue is influenced by two considerations: sales volume and price. 
+Price influences sales volume. People make purchase decisions partly on price. Thus even a small 
+change in the price of the product or service can affect sales, and change the amount of total 
+revenue. 
+Total cost has three components: 
+1.) The cost of goods sold: includes the direct expenses attributable to the production of the 
+goods sold by the business. This amount includes the cost of materials used in creating 
+the goods or services, along with the direct labour costs used to produce them. 
+2.) The selling costs: includes indirect expenses such as distribution costs and sales force 
+costs. 
+3.) Overhead costs: includes storage expenses, premises, utilities, salaries, taxes, etc. 
+There are two main types of expenses: fixed expenses and variable expenses. Each type of expense 
+acts differently when the product or service is sold. Understanding the behaviour of the different 
+kinds of expenses can help the business minimize pricing mistakes. 
+Fixed Expenses are those expenses that do not change over time or as production changes. 
+Assuming the same number of employees and the same premises, salaries, rent, taxes, insurance, 
+heating and lighting are relatively fixed. Fixed expenses can also be called “indirect” expenses, as 
+they are not directly associated with the final product. Fixed costs are those that have to be paid 
+even if the company is not producing any goods. 
+Variable Expenses are those expenses that change as production changes. Examples can include raw 
+materials or electricity. . Variable expenses can also be called “direct” expenses, as they are directly 
+associated with production. 
+BREAKEVEN ANALYSIS 
+Breakeven Analysis compares alternative income and expense estimates to determine the suitability 
+of each price. It can also be used to analyze the potential profitability of a capital investment for a 
+sales-based business. 
+The breakeven point for a product is the point where total revenue received equals the total costs 
+associated with the sale of the product. 
+To provide a complete analysis, the breakeven analysis should include two sections: first one to 
+analyze the income/expense relationship, and the second to incorporate actual forecasts into the 
+analysis. As a result, if the product can be sold in a larger quantity than that which occurs at the 
+breakeven point, then the business should make a profit otherwise below this point, it will be a loss. 
+Breakeven quantity is calculated by: 
+Breakeven Calculation 
+Breakeven Point (in units) = Total Fixed Costs
+ Per Unit Contribution to Fixed Costs 
+ = Total Fixed Costs
+ Price Per Unit – Variable Costs Per Unit 
+And 
+Breakeven Point (in dollars) = Total Fixed Costs
+ Variable Costs per Unit 
+ Selling Price Per Unit 1
+A company produces widgets from a rented retail store. The annual fixed costs are $80,000. The 
+company sells each the widget for $0.75 and the variable cost of each widget is $0.50. The 
+breakeven point in sales and dollars is: 
+BP Units TFC = $80,000 = 80,000 = 320,000 
+ P-VC 0.75 – 0.50 = 0.25 
+BP $ TFC = $80,000 = 80,000 = $80,000
+ 1 – VC = 1 – .50 = 1 –.67 = .33 
+ P .75 
+= $242,424 of revenue for the company to breakeven 
+PRICING OBJECTIVES 
+In order to establish the price of a product or service the business must establish its pricing 
+objectives. Pricing objectives create clear concise direction of the price of the service or product. The 
+following steps should be considered within the pricing objectives: 
+1.) What is the target revenue of the company? 
+2.) What are the objectives of the company branding? 
+3.) Will consumers respond to the company’s price objectives? 
+Some pricing objectives could be: 
+ Increase market share 
+ Increase sales volume (quantity) 
+ Increase dollar sales 
+ Increase store traffic 
+ Maximize long-run profit 
+ Maximize short-run profit 
+ Match competitors’ prices 
+ Obtain a target rate of return on 
+investment (ROI) 
+ Obtain a target rate of return on sales 
+ Company growth 
+ Encourage marginal firms to leave the 
+industry 
+ Survival 
+ Obtain or maintain loyalty 
+ Increase distributors’ marketing of 
+product or service 
+ Enhance the image of the firm, brand, 
+or product 
+ Create interest in a product/service 
+ Discourage competitors from cutting 
+prices 
+ Maintain price leadership 
+ Discourage new business entering the 
+industry 
+ Social, ethical, or ideological 
+objectives 
+ Enhance viability of the product or 
+service 
+From a revenue standpoint, the price of the product or service should 
+be the maximum consumers are willing to pay. 
+In reality, a good pricing strategy would be a balance between the 
+price floor (the price below which the organization ends up in losses) 
+and the price ceiling (the price beyond which the organization 
+experiences a no-demand situation). 
+ Critical 
+Thinking 
+A number of common pricing strategies are listed below. 
+ Penetration Pricing 
+ Skimming Pricing 
+ Follow-the-Leader Pricing 
+ Prestige Pricing 
+ Variable Pricing 
+ Flexible Pricing 
+ Price Lining 
+Module 3.3 Technical Feasibility 
+The technical feasibility study involves questions such as whether the technology needed for the 
+proposed business exists yet, how difficult it will be to build, and what is the experience level of the 
+firm supplying the technology. The reason for asking these questions is to determine the level of 
+technology cost and risk that a business may be looking at. 
+The assessment is based on defined technology requirements in terms of input, processes, output, 
+programs and procedures. The assessment can be defined in terms of the amount of productivity, 
+frequency that the machinery or equipment must be updated, etc. This assessment will either qualify 
+the technology or identify possible inadequacies that will have to be addressed. 
+The technical feasibility study should also determine the availability of a qualified labour force. 
+For cooperatives requiring production facilities, it is this stage of business development that will 
+generally absorb the majority of the investment capital. Therefore, from a capital investment 
+perspective, the technical feasibility study must be conducted with all the diligence and appropriate 
+skills necessary to address the requisite issues. 
+Where production facilities are involved, the technical feasibility reports address the suitability of the 
+selected site for the intended use, including an environmental impact analysis. The report must be 
+based upon verifiable data and contain sufficient information and analysis to determine the technical 
+feasibility of being able to produce product at the rate assumed by the financial projections. 
+The report must also identify any constraints or limitations in these financial projections and any 
+other facility or design-related factors which might affect the success of the enterprise. The report 
+needs to identify and estimate operating and development costs, specify the level of accuracy of 
+these estimates and the assumptions on which they are based. For the purpose of the technical 
+feasibility reports, the project engineer or architect must be an independent third party. 
+Site Location 
+The analysis of a possible new location should quantify any geographical competitive advantage. 
+While project drivers, measures of success and project parameters will vary by company, industry 
+and facility, the underlying approach to choosing a location is consistent. Greg Brown and Alison 
+McMahon, of Deloitte & Touche Fantus, advise “A successful strategy defines critical issues and 
+objectives prior to discussing specific locations. Possible objectives for a new facility include 
+achieving operating efficiencies, expanding or reducing capacity, reducing costs or improving labour 
+draw.” 
+The cooperative should define the geographic search area and the size and scope of a project. In 
+addition, prior to the site selection process the following questions should be asked: 
+What is the fundamental purpose of establishing the new facility? 
+What objectives should be considered and why? 
+How do these objectives affect organizational initiatives? 
+What industry trends and internal imperatives need to be considered in the decision? 
+A useful tool in deciding on a suitable site is to quantify individual sites based on a scoring 
+system. You may use words like “adequate” and “unsatisfactory” to evaluate the site. You may 
+also use a numbering system (i.e., 1 for least satisfactory and 5 for most satisfactory) and total 
+the score for the site. Evaluate each site according to this scoring system by totaling the scores 
+for each site and comparing them. This will provide the business with a simple method of 
+comparing sites. 
+Production Assessment 
+The objective of the technical feasibility assessment is to determine whether the technology being 
+considered for the proposed project is suitable for the desired quantity and quality of product that 
+the cooperative wants to produce. 
+The feasibility assessment of the operations and production technologies is conducted by laying out 
+the physical production process from the point of receiving the input to packaging, transfer to 
+storage, warehousing and/or delivery. 
+This segment of the research must also consider the physical layout of equipment and how 
+it impacts operational efficiency. Additionally, scalability of the equipment and associated 
+technologies must also be assessed, to ensure that is not locked into a scale, but instead can take 
+advantage of future success and expand.
+The report should includes advantages and disadvantages in the technologies from different 
+perspectives: number of employees and skill level required to effectively operate equipment, utility 
+services requirements, maintenance routines, shut down protocols, etc. In addition, the study should 
+provide a clear foundation for the economic assessment of alternative technical solutions and their 
+operational requirements for the project. 
+The technical efficiencies of the alternative technologies should be weighed against their economic 
+efficiencies, to determine their overall effectiveness in the project’s feasibility. 
+The best sources of the economic data for the assessment of technologies and operations are 
+suppliers. Such primary data can be collected by providing a detailed description of the product 
+being considered to potential technical suppliers in a Request for Quote (RFQ) offer. The principal 
+advantage of using an RFQ is to improve your knowledge about alternative solutions, of which you 
+may be unaware, should you only work with one supplier. 
+Module 3.4 Financial Feasibility 
+The purpose of a financial feasibility study is to determine and evaluate the business concept’s ability 
+to generate sufficient income to pay debt and reinvest in the business. The financial plan should 
+identify any performance bonds included in the project construction, technology guarantees, the 
+financing plan, the level and type of insurance coverage that will be needed, and any lines of credit 
+and standby financing requirements. 
+Total Capital Requirements 
+Debt Financing is the process of raising money for working capital or capital expenditures by selling 
+bonds, bills or notes to individual and/or institutional investors. In return for lending the money, the 
+individuals or institutions become creditors and receive a promise that the principal and interest on 
+the debt will be repaid. 
+Equity Financing is the process of raising money for company activities by selling common or 
+preferred stock to individual or institutional investors. In return for the money paid, shareholders 
+receive ownership interests in the corporation. 
+Equity Financing in a Cooperative Environment — Equity capital is created by selling membership 
+and special investment shares in the cooperative. The cooperative may also plan to issue investment 
+shares to non-members. 
+Types of Credit 
+There are two types of credit: consumer credit (granted by retailers to consumers who purchase 
+consumer goods for consumption) and trade credit (when one firm provides goods or services to a 
+customer with an agreement to bill them later, or receive a shipment or service from a supplier 
+under an agreement to pay them later). 
+Consumer Credit — can be charge accounts, installment accounts, and revolving charge accounts. 
+Charge Accounts — allow consumers to obtain a product immediately. Payment is due at time of 
+billing. 
+Installment Accounts — the practice of lending one lump sum that is paid back gradually through 
+periodic payments by the borrower. 
+Revolving Accounts — Revolving credit is a line of credit that is replenished to its maximum 
+amount when you pay it off. 
+Credit Cards — entitle the holder to buy goods and services based on the holder's promise to pay 
+for these goods and services at a later date. 
+Trade Credit — exists when one firm provides goods or services to a customer with an agreement 
+to bill them later, or receive a shipment or service from a supplier under an agreement to pay them 
+later. 
+Trade credit can be viewed as an essential element of capitalization in an operating business 
+because it can reduce the required capital investment to operate the business if it is managed
+properly. The business sell the goods subject to specific repayment period, such as “2/10, net 30”. 
+This means that a two per cent discount is given by the seller if the buyer pays within 10 days of the 
+invoice date. Failure to take this discount makes the full payment of the invoice amount due in 30 
+days. 
+Financial Institution Financing 
+Seed and Start-up Capital — Seed and start-up capital refers to the financing sources of available 
+during the development and start-up stage of a business’s life cycle. Seed and start-up capital in 
+small businesses could include the business owner’s physical and financial assets, family and friends, 
+and business “angels” or “angel investors”. Larger business may utilize venture capitalists, who 
+specialize in investing in start-up companies. In the first round of financing, the definition widens to 
+encompass venture capitalists, commercial financial institutions and government assistance. 
+During the survival stage, financing often comes from suppliers, customers, venture capitalists and 
+operations. 
+Business Angels are individuals or companies willing to invest in start-up companies for a share in 
+any financial rewards. Angels are difficult to find; generally angel investors are networked with 
+accountants and lawyers, and usually need an introduction or recommendation from one of these 
+before they become interested in a business opportunity. 
+Venture Capitalists are a type of private equity capital typically provided to early-stage, highpotential, growth companies in the interest of generating a return on investment. Venture capital 
+investments are generally made as cash, in exchange for shares in the invested company. 
+Commercial Financial Institutions typically provide loans to start-up companies, usually only 
+after two to three years of operating history. Commercial financial institutions usually provide only 
+capital in the survival stage in the form of operating loans. Typically, commercial financial 
+institutions will only provide long-term financing to established businesses. 
+Table 7 – shows the types and sources of financing used during the beginning life cycles of a 
+business 
+Life Cycle Stage Type of Financing Major Sources of Financing 
+Development Stage Seed/Start-up Financing Venture Capitalists 
+Member Pockets 
+Government Assistance 
+Business Owners Assets 
+Friends & Family 
+Start-up Stage Start-up Financing Member Pockets 
+Angel Investors 
+Business Owners Assets 
+Venture Capitalists 
+Government Assistance 
+Survival Stage First Round Financing Business Operations 
+Member Pockets 
+Venture Capitalists 
+Suppliers & Customers 
+Government Assistance 
+Commercial Financial 
+Institutions 
+Growth Stage Business Operations 
+Suppliers & Customers 
+Second Round Financing 
+Mezzanine Financing 
+Liquidity Stage Financing 
+Issuing Shares 
+Commercial Financial 
+Institutions 
+Investment Banks 
+Members 
+Maturity Commercial Financial 
+Institutions 
+Issuing Shares 
+Business Operations 
+Commercial Operations 
+Member Pockets 
+Investment Financing is the traditional purview of investment banks, which help businesses to raise 
+funds in the capital markets and advise on mergers and acquisitions. 
+Aging of Accounts Receivable is the process of categorizing each account receivable by the 
+number of days it has been outstanding. Scheduled review of the aged accounts receivable listing 
+allows a business to identify collection trends create a plan of action to eliminate the problem 
+accounts. 
+Financial Institution Financing is the most common source of funds for a business. There are 
+three basic types of financing provided by financial institutions: 
+1.) Operating Loans or Lines of Credit — a short-term loan to cover the business’s peak 
+working capital requirements. Operating loans provide a predetermined amount of credit for 
+day-to-day expenses such as accounts receivables, inventory, etc. An operating loan is 
+intended to supplement the business’s own working capital. An operating loan can also 
+provide much-needed capital in the event of unexpected cash flow interruptions. 
+2.) Term Loans — typically, term loans are for fixed assets such as machinery, vehicles and 
+commercial buildings. They usually have to be repaid in two to ten years, which is related to 
+the lifespan of the asset being financed. Term loans can have fixed interest rates or variable 
+interest rates. 
+Note: Both operating loans and term loans are “demand” loans, so the financial institution 
+can demand repayment of the loan at any time. 
+3.) Mortgages are loans made using real estate as collateral to secure repayment. A commercial 
+mortgage is similar to a residential mortgage, except the collateral is a commercial building 
+or other business real estate, not residential property. 
+The Canada Small Business Financing Program seeks to increase the availability of loans for 
+establishing, expanding, modernizing and improving small businesses. It does this by encouraging 
+financial institutions to make their financing available to small businesses. Under the program, a 
+business must apply for a loan at a financial institution (bank, credit union or caisse populaire) of its 
+choice. Under the Canada Small Business Financing Act, the program can assist businesses in 
+obtaining term loans of up to $250,000 to help finance fixed asset needs. 
+Business Development Bank of Canada — is a crown corporation financial institution wholly owned 
+by the Government of Canada. BDC delivers financial and consulting services to Canadian small 
+business, with a particular focus on technology and exporting. BDC offers a higher percentage of 
+long-term financing on your fixed and intangible assets, and financing flexibility that allows you to 
+manage day-to-day operations. 
+Evaluating Financing Options 
+When evaluating financing options it is wise to shop around and compare options and terms. This 
+includes: 
+ Interest rates; 
+ Transaction fees of loan and deposits; 
+ Prepayment terms; 
+ Flexible repayment terms; 
+ Security and personal guarantees; 
+ Quality of all overall service provided by the institution; 
+ Expected processing time; and 
+ Does the financial institution have knowledge of the industry being financed? 
+Loan Security Agreements 
+Loan security agreements document giving a lender a security interest in assets or property pledged 
+as collateral. The security agreement may cover liens in intangible property such as accounts 
+receivable, or a lien, in which the lender holds the collateral (for example: stock certificates) until 
+the loan is fully paid. In some loans, the security agreement is also the financing statement filed 
+with a public records office, if it has the signatures of both borrower and lender. 
+Types of Loan Security Agreements 
+Promissory Note 
+A promissory note is a written promise to pay a specified sum of money to the lender either on 
+demand or on a specified date. 
+Real Property Mortgage 
+The real property mortgage is a loan (mortgage) whose proceeds are applied to the purchase or refinance of land and buildings. A charge against the title is registered with the Province. 
+Chattel Mortgage 
+The chattel mortgage is a mortgage on specific assets other than land and buildings. A lien charge 
+against the title is registered with the Province. 
+Pledge 
+The pledge is an agreement similar to the chattel mortgage, except in that possession is transferred 
+to the lender but title remains with the borrower, e.g., your stocks and bonds held by the bank. 
+Floating Charge 
+The floating charge is an agreement which designates that all the remaining assets in debenture the 
+business, not already mortgaged as security for other debts, will be taken as the security for the 
+new debt. The title remains with the business but the debenture is registered with the Province. 
+Personal Guarantee 
+This agreement says the business owners will agree that if the limited company is unable to repay 
+the loan, the business owners will do so personally. If this is in addition to other securities, the 
+business owners would be wise to try to negotiate a limited guarantee to cover the shortfall in the 
+security for the loan. 
+Postponement of a Claim 
+The Postponement of a Claim allows the lender to ask for assurance that the company will not repay 
+the shareholders until the secured lenders have been repaid in full. 
+Determine the Start-up Financial Requirements 
+Accurately estimating how much capital the business will need is crucial to success. To determine 
+the business start-up costs, you must identify all the expenses that your business will incur during 
+its start-up phase. 
+One-time Expenses 
+One-time expenses are the expenses that must be made before the start of the business. The 
+expenses include both capital expenditures and soft expenses. Capital expenditures can include the 
+purchase of signage, fixtures and equipment, beginning inventory or office supplies. Soft expenses 
+are such items as prepaid utility bills or deposits, advertising and promotion that must be paid prior 
+to the opening of the business, etc. 
+A realistic start-up budget should only include those things that are necessary to start the business. 
+These essential expenses can then be divided into two separate categories: fixed and variable. Fixed 
+expenses include rent, utilities, administrative costs, and insurance costs. Variable expenses include 
+inventory, shipping and packaging costs, sales commissions, and other costs associated with the 
+direct sale of a product or service. 
+Operating Expenses 
+Operating expenses are salaries and wages, rent and normal operating expenses that must be paid 
+until the business turns a profit. Many business take months or even years before showing a 
+sustainable profit margin. The cash flow projections will provide a guide as to when the business will 
+generate sufficient operating income to routinely pay operating expenses but, as a rule, a small 
+business should have sufficient funds to cover a minimum of three months operating expenses and a 
+larger business should have funds available to cover operating expenses for one year. 
+Estimated Start-up Requirements 
+Anytown Cooperative Hardware Store 
+Estimated Monthly Expenses
+Item Monthly Expense Number of Months of Cash 
+Required to Cover 
+Expenses 
+Estimated Requirement to 
+Start Cooperative 
+Management Salary $5,417.00 3 $16,251.00 
+Employee Salary $16,667.00 3 $50,001.00 
+Employee Benefits $1,167.00 3 $3,501.00 
+Building Rental $6,250.00 3 $18,750.00 
+Utilities $1,500.00 3 $4,500.00 
+Accounting & Taxes $667.00 3 $2,001.00 
+Advertising $1,500.00 3 $4,500.00 
+Insurance & Licenses $500.00 3 $1,500.00 
+Repairs & Maintenance $292 3 $876.00 
+Office Supplies $500.00 3 $1,500.00 
+Bad Debts $417.00 3 $1,251.00 
+Depreciation 0.00 3 0.00 
+Interest Charges $1,400.00 3 $4,200.00 
+Bank/Credit Union 
+Charges 
+$125.00 3 $375.00
+Total Amount of Capital Required to Cover Expenses $109,206.00 
+One Time Start-up Expenses Cash Required to Start 
+Cooperative 
+Capital Costs
+Fixtures & Equipment $185,000.00 
+Starting Inventory $350,000.00 
+Soft Costs 
+Prepaid Utilities & Fees $7,500.00 
+Legal & Professional Fees $2,500.00 
+Licenses & Permits $3,500.00 
+Advertising & Promotion $3,000.00 
+Misc Cash $4,500.00
+Total One Time Cash Requirements $556,000.00
+Total Estimated Cash Required to Start Cooperative $665,206 
+Sensitivity Analysis 
+A sensitivity analysis enables the business owner to see a true picture of the potential for gain and 
+loss. In essence, the sensitivity analysis compares potential income statements for best- and worstcase scenarios. 
+A sensitivity analysis can help businesses in making decisions. The business may want to consider, 
+for example, the effect of increased raw material, labour or overhead costs; of reducing prices, with 
+constant volumes, to counteract competitors; or reducing volumes, with constant prices, due to 
+over-optimistic forecasts. Including a sensitivity analysis in the business feasibility plan will 
+demonstrate that the business has thought about some of the potential risks and how they may be 
+avoided. 
+A sensitivity analysis considers ‘what if?’ scenarios. What 
+happens to a business’s cash position, for example, if sales fall 
+by 10 per cent? What happens if the business’s main supplier 
+increases raw material prices by 12 per cent? 
+A sensitivity analysis is particularly used by financial 
+institutions when considering propositions for a loan. If the 
+business is particularly susceptible to small changes, then the 
+business probably does not have business model that yields a 
+sufficiently large profit margin. Thus it is less likely to receive 
+requested credit. 
+ Critical 
+Thinking 
+ CASH FLOW BUDGET WORKSHEET 
+ SENSITIVITY ANALYSIS 
+ (ASSUMES 5% CHANGE IN RECEIPTS AND DISBURSEMENTS) 
+ Pessimistic Expected Optimistic 
+ Cash Flow Cash Flow Cash Flow 
+Beginning Cash Balance $0 $50,000 $0 
+Cash Inflows (Income): 
+ Accts. Rec. Collections $118,750 $125,000 $131,250 
+ Loan Proceeds $522,500 $550,000 $577,500 
+ Sales & Receipts $752,875 $792,500 $832,125 
+ Total Cash Inflows $1,394,125 $1,472,500 $1,540,875 
+Available Cash Balance $1,394,125 $1,522,500 $1,540,875 
+Cash Outflows (Expenses): 
+ Advertising $20,843 $19,850 $18,858 
+ Bank Service Charges $5,985 $5,700 $5,415 
+ Contingencies $10,500 $10,000 $9,500 
+ Credit Card Fees $525 $500 $475 
+ Delivery Charges $13,125 $12,500 $11,875 
+ Deposits $5,250 $5,000 $4,750 
+ Dues & Subscriptions $3,675 $3,500 $3,325 
+ Health Insurance $131 $125 $119 
+ Insurance $7,875 $7,500 $7,125 
+ Interest $18,375 $17,500 $16,625 
+ Inventory Purchases $325,500 $310,000 $294,500 
+ Licenses & Permits $1,575 $1,500 $1,425 
+ Miscellaneous $5,250 $5,000 $4,750 
+ Office $7,875 $7,500 $7,125 
+ Payroll $194,250 $185,000 $175,750 
+ Payroll Taxes $5,250 $5,000 $4,750 
+ Professional Fees $1,575 $1,500 $1,425 
+ Rent or Lease $151,200 $144,000 $136,800 
+ Repairs & Maintenance $13,125 $12,500 $11,875 
+ Sales tax $85,313 $81,250 $77,188 
+ Services $2,625 $2,500 $2,375 
+ Signs $5,250 $5,000 $4,750 
+ Supplies $15,750 $15,000 $14,250 
+ Taxes & Licenses $5,250 $5,000 $4,750 
+ Utilities & Telephone $13,125 $12,500 $11,875 
+ Other: $4,725 $4,500 $4,275 
+ Subtotal $923,921 $879,925 $835,929 
+Other Cash Out Flows: 
+ Capital Purchases $450,000 $450,000 $450,000 
+ Building Construction $0 $0 
+ Decorating $52,500 $50,000 $47,500 
+ Fixtures & Equipment $19,425 $18,500 $17,575 
+ 
+ Install Fixtures & 
+Equip. $5,250 $5,000 $4,750 
+ Remodeling $0 $0 
+ Lease Payments $0 $0 
+ Loan Principal $44,625 $42,500 $40,375 
+ Owner's Draw $89,250 $85,000 $80,750 
+ Subtotal $661,050 $651,000 $640,950 
+ Total Cash Outflows $1,584,971 $1,530,925 $1,476,879 
+Ending Cash Balance ($190,846) ($8,425) $63,996 
+Module 3.5 Developing Projected Financial Statements 
+In Ralph Estes's Dictionary of Accounting (MIT, Cambridge, 1981, p. 105), a projected financial 
+statement is defined as "a financial statement prepared on the basis of some assumed events and 
+transactions that have not yet occurred." A projected financial statement attempts to predict the 
+future. Projected statements can identify opportunities and/or obstacles which the business will need 
+to take into consideration. The statements can also examine alternatives and possibilities prior to 
+expending capital. 
+PROJECTED BALANCE SHEET 
+The balance sheet is a snapshot taken at a moment in time. The information presented is 
+cumulative, in that it summarizes, for that moment in time, the net effect of all financial activity 
+since the business began. Usually a balance sheet is produced at the end of a reporting period. In 
+the balance sheet, the business can easily see the relationship between debt (liabilities) and equity. 
+The balance sheet presents a detailed listing of what a business owns, what it owes and its net 
+worth, at a specific point in time. It is a stock measure of the business's financial condition. The 
+basic equation of the balance sheet is: 
+ Assets = Liabilities + Equity 
+Anytown Cooperative Hardware Store 
+Fiscal Year Ended Dec 31, 2009 
+Balance Sheet 
+Assets 
+Current Assets 2009 2010
+Cash and Deposits $15,000 $12,000
+Accounts Receivables $125,000 $112,000
+Inventory $80,000 $75,000
+Prepaid Expenses $5,000 $4,200
+Total Current Assets $225,500 $203,450
+Capital/Fixed Assets 
+Investments $75,000 $75,000
+Land $500,000 $500,000
+Buildings $450,000 $475,000
+Other Capital/Fixed Assets $50,000 $55,000
+Total Capital/Fixed Assets $1,075,000 $1,105,000
+Total Assets $1,300,000 $1,308,450
+Liabilities 
+Current Liabilities 
+Accounts Payable $45,000 $38,500
+Taxes Payable $5,000 $3,850
+Long Term Debt 
+Mortgage $325,000 $365,000
+Total Liabilities $375,000 $365,000
+Member Equity 
+General Reserve $50,500 $50,000
+Membership Shares $525,000 $525,000
+Retained Earnings $400,000 $368,450
+Total Member Equity $975,000 $943,450
+Total Liabilities and Member Equity $1,300,500 $1,308,450
+Current Asset: is an asset on the balance sheet which is expected to be sold or otherwise used up 
+in the near future, usually within one year, or one business cycle. Current assets include cash, cash 
+equivalents, accounts receivable, inventory, the portion of prepaid accounts which will be used 
+within a year, and short-term investments. 
+Fixed asset: is comprised of property, plant and equipment, or property which cannot easily be 
+converted into cash. In most cases, only tangible assets are referred to as fixed. These are items of 
+value which the cooperative has bought and will use for an extended period of time. 
+Current Liabilities: are considered liabilities of the business that are to be settled in cash within
+the fiscal year or the operating cycle, whichever period is longer. For example accounts payable for 
+goods, services or supplies that were purchased for use in the operation of the business, and are 
+payable within a normal period of time, would be current liabilities 
+Long Term Liabilities: are a type of debt. Bonds, mortgages and loans that are payable over a 
+term exceeding one year would be long term liabilities. 
+Member Equity: is the capital invested in the organization by cooperative members 
+Retained earnings: is the portion of net income which is retained by the corporation rather than 
+distributed to its owners as dividends. 
+PROJECTED PROFORMA INCOME STATEMENT 
+Pro Forma income statements are used to generate projected financial statements, which provide an 
+estimate of the income, expenses, assets and liabilities of operating a business throughout the year. 
+Financial institutions generally demand the pro forma statements when considering a loan request. 
+The first step in creating projected financial statements is the pro forma income statement. The 
+statement shows all sales revenues, cost of goods sold, losses, operating expenses, taxes and 
+depreciation on property, plant and equipment. The formula to calculate income and expenses is 
+simple: 
+ Revenue – Expenses = Net Profit before Taxes 
+The purpose of the income statement is to show the management team and the members of the 
+cooperative whether the business is expected to make or lose money during the period in question. 
+The information needed to complete a pro forma income statement includes the following: 
+1.) The projected sales volume for the year 
+2.) The expected expense of producing or purchasing the product or service (cost of 
+goods sold) 
+3.) The amount of fixed operating expenses, such as insurance, utilities, rent, interest 
+costs, and other such items, for the year. 
+4.) The variable operating expenses such as wages and benefits, advertising and 
+transportation. 
+5.) The anticipated net operating profit or loss. 
+Net sales are the amount of gross sales reduced by customer discounts, returns, freight out and 
+allowances. 
+Cost of Goods Sold is defined as the direct expenses incurred in the production of the goods or 
+services sold by the business. This is the materials cost incurred in creating the goods, together with 
+the direct labour costs used to produce them. 
+Total Cost has three components: 
+1.) The Cost of Goods Sold: This includes the direct expenses attributable to the 
+production of the goods sold by the business. It includes the materials cost used in 
+creating the goods, along with the direct labour costs used to produce them. 
+2.) The selling costs: this includes indirect expenses such as distribution costs and sales 
+force costs. 
+3.) Overhead costs: this includes storage expenses, utilities, salaries, taxes, and other 
+items. 
+Net sales less net operating profit or loss will create the estimated gross margin or gross profit. 
+Gross profit is one of the most important measures of a business. The larger the gross profit 
+margin, the greater the cushion for covering all other business expenses, while being able to provide 
+a sufficient return to the cooperative. 
+Figure 3 
+Sample Pro Forma Income Statement 
+Anytown Pharmacy 
+Net Sales $792,500 
+Less: Costs of Goods Sold 
+Beginning Inventory $125,000
+Plus: Net Purchases $310,000
+Less: Ending Inventory $205,000
+Cost of Goods Sold $230,000
+Gross Margin $562,500 
+Operating Expenses $569,925 
+Net Profit (Loss) before Income Tax ($7,425) 
+It is important to note that different types of companies have much different inventory 
+requirements, costs of goods sold and/or operating expenses. Service industries, for example, 
+typically do not hold an inventory of goods for sale. Manufacturing companies, on the other hand, 
+may hold many different types and quantities of inventory.. The appropriate level of inventory for 
+each type of business should be determined and reflected in the projected net sales. 
+The operating expenses should be broken down to show each major type of expense, as a 
+percentage of overall operating expenses. This provides an estimate of where the business will be 
+spending the majority of the operating budget. The projection not only serves as a planning tool, 
+outlining the requirements of the business, but it can also be used as a benchmark to and monitor 
+the actual performance of the business in the early stages. 
+FORECASTING CASH FLOW 
+The next step in the projected financial statement preparation is to prepare a projected cash flow. 
+The projected cash flow financial statement assesses the financial feasibility of the business: how 
+well it will be able to control its day to day financial affairs. 
+The cash flow statement traces the flow of funds (or working capital) into and out of your business 
+for the year. A cash flow statement is used to assess the timing, amount and predictability of future 
+cash flows and is used as the basis for budgeting. You can use a cash flow statement to answer the 
+questions, "Where did the money come from?" and "Where did it go”? 
+The cash flow statement measures only the cash inflow and outflow of the business. Non-cash 
+accounting entries that show up on the income statement such as depreciation, amortization and the 
+acquisition or disposal of assets are not included in the cash flow. 
+The cash flow is used by the financial institution to evaluate the firm's ability to generate cash to 
+repay its debt, buy equipment or expand the business. 
+There are three sections to the cash flow statement: 
+1. Operating Activities 
+2. Investment Activities 
+3. Financing Activities 
+Net cash flow starts with the net income amount, makes adjustments for all non-cash items, then 
+adjusts for all cash-based transactions. Only actual cash items remain, because the point is to 
+forecast the effect on the company’s actual cash position at various points in time. 
+An increase in an asset account is subtracted from net income, and an increase in a liability account 
+is added back to net income. This method converts accrual-basis net income (or loss) into cash flow 
+by using a series of additions and deductions. 
+Operating activities (all transactions and events that normally enter into the determination of 
+operating income) include cash receipts from selling goods or providing services, as well as income 
+from items such as interest and dividends. Operating activities also include cash payments such as 
+inventory, payroll, taxes, interest, utilities, and rent. The net amount of cash provided (or used) by 
+operating activities is the key figure on a statement of cash flows. 
+The following formula determines the cash flow from operations: 
+(+) Cash received from customers 
+(+) Other operating Receipts 
+ = Total Cash Receipts from Operations (A)
+ (-) Cash Paid to Suppliers 
+ (-) Cash Paid to Employees 
+ (-) Interest Paid 
+ (-) Taxes Paid 
+ (-) Other Cash Payments 
+ (=) Total Cash Payments from Operations (B) 
+Total Net Cash Provided by Operations = (A) + (B) 
+The following formula determines the cash flow from investments: 
+(+) Cash Proceeds from sale of assets 
+ (+) Sale of investments in equity securities of other entities or debt securities (other than 
+ cash equivalents) 
+ (+) Collection of principal on loans made to other entities 
+ (-) Cash Disbursements for the purchase of land/building or equipment 
+ (-) Loans to other entities 
+ (-) Purchase of equity securities of other entities or debt securities (other than 
+cash equivalents) 
+(=) Total Net Cash Investment 
+The following formula determines the cash flow from financing: 
+ (+) Cash received from financial institutions 
+ (+) Proceeds of issuing stock 
+ (+) Capital contributions by owners 
+(=) Total cash received from financing (A) 
+ (-) Repayment of principal on loans 
+ (-) Dividends paid to shareholders 
+ (-) Cash withdrawals by owners 
+(=) Total cash payments for financing (B) 
+Total Cash Payments Provided by Financing (A) + (B) 
+Proforma Projected Cash Flow Statement 
+12 Month Cash Flow Projections 
+January February March April May June July August September October November December 
+Yearly 
+Total 
+ Sales $4,500 $5,540 $5,750 $7,575 $8,540 $12,750 $12,125 $13,005 $12,790 $10,795 $9,945 $12,500 $115,815 
+ Accounts Receivable $1,250 $2,200 $2,100 $2,450 $2,325 $2,100 $2,435 $2,755 $2,805 $2,950 $3,410 $26,780 
+ New Term Borrowing $0 
+ Capital Sales $0 
+ Cash Contributions $0 
+ Investment Income $0 
+ Other Income $0 
+ $0 
+ Total Cash Inflow $4,500 $6,790 $7,950 $9,675 $10,990 $15,075 $14,225 $15,440 $15,545 $13,600 $12,895 $15,910 $142,595 
+ $0 
+ $0 
+ Rent $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $1,250 $15,000 
+ Telephone $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $3,000 
+ Hydro $450 $450 $450 $450 $450 $450 $450 $450 $450 $450 $450 $450 $5,400 
+ Transportation costs $125 $125 $125 $125 $125 $125 $125 $125 $125 $125 $125 $125 $1,500 
+ Wages and Salaries $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $3,500 $42,000 
+ Advertising & Promotion $750 $750 $750 $750 $750 $750 $750 $750 $750 $750 $750 $750 $9,000 
+ Office Supplies $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $250 $3,000 
+ Legal & Accounting $1,500 $1,500 $3,000 
+ Taxes $585 $883 $1,034 $1,258 $1,429 $1,960 $1,849 $2,007 $2,021 $1,768 $1,676 $2,068 $18,537 
+ Licenses $1,500 $1,500 
+ Insurance $750 $750 
+ Inventory $0 
+ Principal Payments $1,360 $1,370 $1,379 $1,388 $1,397 $1,406 $1,416 $1,425 $1,435 $1,444 $1,454 $1,464 $16,938 
+ Interest $667 $658 $648 $639 $630 $620 $611 $601 $592 $582 $573 $563 $7,384 
+ Other Cash Expenses $200 $400 $200 $100 $900 
+ Accounts Payable $1,250 $1,330 $1,140 $1,095 $1,745 $1,345 $1,550 $1,785 $1,200 $1,445 $1,475 $15,360 
+ Total Cash Outflow $9,187 $10,935 $13,216 $12,500 $11,126 $12,706 $11,796 $12,158 $12,608 $11,569 $13,223 $12,245 $143,269 
+ Net Cash Flow -$4,687 -$4,145 -$5,266 -$2,825 -$136 $2,369 $2,429 $3,282 $2,937 $2,031 -$328 $3,665 -$674 
+ (+) Beginning Cash Balance $20,000 $15,313 $11,168 $5,902 $3,077 $2,942 $5,311 $7,740 $11,021 $13,959 $15,990 $15,661 $19,326 
+ (=) Cash Position for the Period $15,313 $11,168 $5,902 $3,077 $2,942 $5,311 $7,740 $11,021 $13,959 $15,990 $15,661 $19,326 $20,000 
+ (+) Interest on Operating Loan $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 
+ (=) Ending Cash Position $15,313 $11,168 $5,902 $3,077 $2,942 $5,311 $7,740 $11,021 $13,959 $15,990 $15,661 $19,326 -$674 
+Module 3.6 - Establishing Criteria to Proceed or Abandon a Business Idea 
+At each stage by having pre-established “minimum acceptable" criteria makes the decision-making 
+activity easier. Either the business idea or project meets the minimum criteria or it does not. 
+If it does not, then you can make a decision to abandon the idea in its current form. If the idea or 
+project meets or exceeds the criteria, you can proceed to analyze the next stage. This is where the 
+ability to remain focused and objective is very important. If a “maybe” enters the decision, then it is 
+likely that goal or the information is not defined well enough. It may be necessary at this point to redefine the goals and start again, seek more information on a specific point, or to do the activity 
+more thoroughly. 
+THE IDEA 
+Every idea has some merit and some drawbacks. Out of 100 ideas or more, there may be one or two 
+real opportunities. Superior business ideas that have potential to become opportunities have 5 basic 
+anchors: 
+ They create or add significant value to a customer or end user. 
+ They do so by solving a significant problem, or meeting a significant want or need, for which 
+someone is willing to pay a premium. 
+ They have a strong market, profit margin. 
+ They are a good fit with the founders and management team. 
+ They have strong risk/reward proposition. 
+At this stage, the team will concentrate mostly on the obvious benefits and limitations: 
+ Does the idea appear to meet my goals? 
+ What factors could prevent it from being successful? 
+ Are the team members (or my family and I) prepared to make the sacrifices necessary to 
+make this project work? 
+It is difficult to remain totally objective through this stage. 
+A healthy level of skepticism is required to allow the group to discover the warning signs and 
+pitfalls that lie in wait to sabotage any good idea. 
+Criteria considerations: 
+ Are the benefits from this idea sufficient to justify the cost as measured in terms of finance, 
+personal stress and family sacrifice? 
+ What is the balance of benefits to cost that we are willing to tolerate? 
+MANAGEMENT CAPABILITIES 
+Management experts agree that the most important factor for success by far in any business is the 
+management team that makes the decisions, yet it is the factor most often overlooked in 
+determining the feasibility of a venture. 
+Criteria considerations: 
+ What specific skills does the business need to develop or hire? 
+ At what point does the lack of available skills become an obstacle? 
+TECHNICAL REALITIES 
+An assessment of the idea must consider the question, “Can it be done?” This question must be 
+answered to determine whether the business has the capability of producing the product and taking 
+it to the marketplace. Specific questions might include: 
+ Do we have access to the required raw materials? 
+ What technology, equipment and processes are required? 
+ Do we understand the required technology, equipment and processes? 
+ Does it appear that the production system is workable and affordable? 
+Criteria considerations:
+ How much time can I devote to this project at the expense of my other enterprises? 
+ How much change am I prepared to make to accommodate this project? 
+ At what point do I decide it is not worth the effort? 
+MARKET REALITIES 
+The success of any venture depends on the ability to get the right product into the right marketplace 
+at the right time, and with the right price. 
+The marketing world is littered with failed products that could have been successful if the formula for 
+their offering had been different. Effective market research is the most important activity that an 
+entrepreneur can undertake to reduce risk. 
+Key areas to research: 
+ Features and benefits of the product or service (Are the features we want to offer actually 
+benefits for the potential customers?); 
+ Target market (Who is most likely to buy?); 
+ Distribution options (What is the best way to reach the target buyers?); 
+ Market demand (How many possible buyers are there, at what volume and price?); 
+ Competition (What products and companies compete in this market?); 
+ Trends (What is the expected life of the product?); 
+ Expected price (What are the potential highest, lowest and most often prices?); and 
+ Expected sales (What volume and market conditions can we expect?). 
+It is important to understand that customers rule the marketplace. 
+They alone determine whether the product will sell in sufficient 
+numbers and price to be viable. 
+Market research can reveal the probability of product success. 
+ Critical 
+Thinking 
+Criteria Considerations: 
+ Is there demand? Is there enough demand to drive enough profit to be sustainable? 
+ What are the minimum values on sales volume and price needed to be viable? 
+ Is the potential for initial sales, and growth in sales, adequate? 
+ Is this product the best option available to us? 
+COST AND FINANCIAL REALITIES 
+As each of the previous analyses has been conducted, the anticipated costs and expected returns
+have been transferred to a ledger. From this ledger, three statements can be generated: 
+1. Pro Forma (Projected) Income and Expense Statement 
+2. Projected Cash Flow Statement 
+3. Opening Balance Sheet 
+These statements are essential to creating a solid business case to justify the proposed venture. 
+In the original goals, a target for return on investment (ROI) might have been stated. It is possible 
+to calculate a projected ROI. Your team is seeking answers to the following questions: 
+ Does the profit level meet or exceed our goals? 
+ Is the cost of establishment even within our range of financial options? 
+ Overall, will this proposal provide sufficient return on investment? 
+Criteria considerations: 
+ Is the cost of sales acceptable relative to the likely product price? 
+ Might the venture meet or exceed the profit goals? 
+ Does the expected return meet or exceed the minimum acceptable level? 
+RISK REALITIES 
+Investments are made in the expectation of a return to the investor. In general, the greater the 
+return expected, the more willing an investor will be to invest. 
+People vary in their ability and their willingness to take risks. The ability varies with the extent of the 
+required investment, and the wealth or asset value of the investor. The willingness varies with the 
+amount of those assets that the investor or group of investors is willing to place at risk. These risks 
+may be financial or social. In either case, they can have a significant effect on the project team and 
+their families. 
+Managing risk is a function of controlling the factors that contribute to possible losses against the 
+investment. 
+A feasibility analysis is a risk-management tool, because it helps the business identify the risk 
+factors involved in the project. Other risk management tools are those practices that contribute to 
+consistent quality and safety of the product being sold or that contribute to a low unit cost of 
+production. 
+The feasibility analyst might ask the following questions: 
+ What can go wrong with this project? 
+ Is there a way to prevent any of these from happening? 
+ What is the probability that any of these factors will go wrong? 
+ What is the probability that two or more of these will go wrong? 
+ Can the effect of these risks be reduced through insurance, and at what cost? 
+ How able and willing is the business to assume these risks? 
+Risk control is the adoption of systems that minimize the likelihood and the effect of a 
+negative occurrence. 
+ Quality control and safety programs reduce the risk of injury or harm to customers 
+ Production efficiencies provide a competitive advantage through low cost of production 
+ Thorough market research provides an improved chance of marketplace success 
+ Accurate cost estimates improve the accuracy of estimating profit and return 
+General insurance agents carry insurance programs covering many kinds of business risks. These 
+come at a significant cost to the business, so if more factors can be controlled through management 
+and production, the cost of production will be lower. 
+Criteria Considerations: 
+ Do the risks involved in this venture exceed the benefits that I hope to gain? 
+ What specific risks does the business need to avoid or control? 
+ Is the cost of risk abatement through prevention and insurance affordable? 
+ What is the maximum amount of risk that the business is willing to take? 
+Venture Opportunity Screening Exercises (VOSE) 
+The venture creation process requires performance of due diligence. The components of these 
+exercises are used to channel your thought and data collection efforts toward creating the 
+foundation for development of the complete Business Plan. Allow for a dynamic processing of each 
+component and thereby the shaping of the opportunity and a plan to execute it. It is OK to be 
+initially broad in your perspective and then become more focused in later iterations. 
+At the end of the VOSE exercise, you should have a clear idea of the relative attractiveness of your 
+opportunity. However, it is rarely simply cut and dried. Mostly, there will be considerable uncertainty 
+and numerous unknowns and risks. Completing this exercise can, however, help you understand 
+those uncertainties and risks as you make a decision about the business idea. 
+The Venture Opportunity Profile 
+Fill in this profile for each cooperative opportunity. Indicate for each criterion where the opportunity 
+is located on the value continuum from low to high. Once you have evaluated the idea according to 
+each of the criteria, you can determine its total score for each of the major categories. 
+Criterion Low Value 
+Opportunity 
+High Value 
+Opportunity
+Industry & Market 
+Market: 
+Customer Base 1 2 3 4 5 6 7 8 9 10
+Use Benefits 1 2 3 4 5 6 7 8 9 10 
+Value Added 1 2 3 4 5 6 7 8 9 10 
+Product Life 1 2 3 4 5 6 7 8 9 10 
+Customer Reliance on 
+Product/Service 1 2 3 4 5 6 7 8 9 10 
+Competition 1 2 3 4 5 6 7 8 9 10 
+Market Size Potential 1 2 3 4 5 6 7 8 9 10 
+Venture Growth Rate 1 2 3 4 5 6 7 8 9 10 
+Market Share (year three) 1 2 3 4 5 6 7 8 9 10 
+Market Capacity 1 2 3 4 5 6 7 8 9 10 
+Cost Structure 1 2 3 4 5 6 7 8 9 10 
+Entry Barriers 1 2 3 4 5 6 7 8 9 10 
+Total Score /120
+Economics: 
+Gross Margins 1 2 3 4 5 6 7 8 9 10 
+Profits after Tax 1 2 3 4 5 6 7 8 9 10 
+Return on Investment 1 2 3 4 5 6 7 8 9 10 
+Capital Requirements 1 2 3 4 5 6 7 8 9 10 
+Sales Growth 1 2 3 4 5 6 7 8 9 10 
+Time to Breakeven 1 2 3 4 5 6 7 8 9 10 
+Risk 1 2 3 4 5 6 7 8 9 10 
+Variability of Cash Flow 1 2 3 4 5 6 7 8 9 10 
+Member Investment Attraction 1 2 3 4 5 6 7 8 9 10 
+Capital Availability 1 2 3 4 5 6 7 8 9 10 
+Total Score /100
+Competitive Advantage 
+Issues: 
+Fixed & Variable Costs 1 2 3 4 5 6 7 8 9 10 
+Control over costs, prices and 
+distribution 
+1 2 3 4 5 6 7 8 9 10 
+Total Score /20
+Management Team: 
+Entrepreneurial Team 1 2 3 4 5 6 7 8 9 10
+Industry & Technical Experience 1 2 3 4 5 6 7 8 9 10
+Integrity 1 2 3 4 5 6 7 8 9 10
+Intellectual Honesty 1 2 3 4 5 6 7 8 9 10
+Staff Capability 1 2 3 4 5 6 7 8 9 10
+Total Score /50
+Strategic Differentiation: 
+Degree of Fit 1 2 3 4 5 6 7 8 9 10
+Team 1 2 3 4 5 6 7 8 9 10
+Timing 1 2 3 4 5 6 7 8 9 10
+Technology 1 2 3 4 5 6 7 8 9 10
+Flexibility 1 2 3 4 5 6 7 8 9 10
+Opportunity Orientation 1 2 3 4 5 6 7 8 9 10
+Pricing 1 2 3 4 5 6 7 8 9 10
+Distribution Channels 1 2 3 4 5 6 7 8 9 10
+Room for Error 1 2 3 4 5 6 7 8 9 10
+Total Score /90 
+Total Aggregate Score /
+Exercises Module 3 
+1. What is the purpose of a feasibility study? 
+The purpose of a feasibility study is to provide a comprehensive analysis and evaluation of the 
+market, operational, technical and financial aspects of your business concept opportunity. 
+2. What is the aim of a SWOT analysis? 
+The aim of any SWOT is to identify the key internal and external factors that are important to 
+achieving the objective. 
+3.) The strategic position answers what 3 questions? 
+ Who is the target market? 
+ What products or services should the business offer to its customers? 
+ How will the product or service be provided? 
+4.) What does the market feasibility study determine? 
+The marketing feasibility study determines if the product or service is viable within the 
+competitive environment of the industry or market place. 
+5.) What are the 6 major barriers of entry into an industry or market segment? 
+ Economies of scale 
+ Product differentiation 
+ Capital requirements 
+ Switching Costs 
+ Access to channels of distribution 
+ Government Policy 
+6.) A competitor analysis should include what 6 items? 
+1.) An understanding of the competitors vision, mission and objectives, allowing a new business 
+to develop their own; 
+2.) Identification of product or market segment strengths and weakness to enable the new 
+business to create new and innovative products; 
+3.) A determination of the size, configuration and operations of the competitor’s business, which 
+will allow new business owners to create realistic business projections based on appropriate 
+priced products; 
+4.) An analysis providing insight into distribution channels and direct sales intelligence; 
+5.) A listing of the competitive payment terms and discounts in order to make negotiating similar 
+conditions simple; and 
+6.) A sampling of the competitor’s marketing communications, which will allow a new business to 
+exploit information and create their own marketing communication plan. 
+7.) What is market research? 
+Market research is the function that links the business products and services with the consumer. 
+8.) The emergence of Niche markets provides for product differentiation? 
+True False 
+9.) Target market segmentation process includes: 
+ Determining the characteristics of the segment. 
+ Checking to see if the segment is large enough to support the product. 
+ Once a target market is chosen the organization can develop its marketing strategy 
+10.) What are the four beneficial reasons for branding? 
+ Differentiation 
+ Conveys value 
+ Builds brand loyalty 
+ Builds price 
+11.) Why do we need a sales forecast? 
+The forecast predicts the number of units of a product or service a cooperative will sell within a 
+specified time period and at a given price. 
+12.) What is the purpose of estimating market potential? 
+Estimating the market potential determines if the market is sufficient to support the size and 
+scope of the business being contemplated. 
+13.) Total revenue is influenced upon what two considerations? 
+ Sales Volume 
+ Price 
+14.) What is the breakeven point? 
+The breakeven point for a product is the point where total revenue equals the total costs 
+associated with the sale of the product. 
+15.) What is the purpose of a Technical Feasibility study? 
+The technical feasibility study answers the questions of: 
+ Does the technology exist 
+ How difficult is it to build 
+ Whether the firm supplying the technology has experience using the technology 
+16.) Academics often believe that location decisions for a new plant are based on a 
+consideration of cost advantage. 
+True False 
+17.) What is the purpose of a financial feasibility study? 
+The purpose of a financial feasibility study is to determine a evaluate business concept’s ability 
+to generate sufficient income to pay debt and invest in the business. 
+18.) What is start up or seed capital? 
+Start up or seed capital refers to the financing sources of available during the development and 
+start up phase of a business cycle. 
+19.) What are the 3 basic types of financing? 
+ Operating loans or lines of credit 
+ Term loans 
+ Mortgages 
+20.) What is the purpose of the cash flow statement? 
+The cash flow statement traces the flow of funds (or working capital) into and out of your 
+business for the year. A cash flow assesses the timing, amount and predictability of future cash 
+flows and is the basis for budgeting. 
+Case Study 1 
+Part 1: The Financial Case Study of Farmer Cooperative Inc. 
+You have recently agreed to sit on the steering committee for a new local cooperative. The 
+cooperative is to be a full service retailer of fuel, fertilizer and chemicals that is expected to compete 
+with all the “players” in the market. The business will consist of a bulk fuel depot, with fuel delivery 
+trucks, fertilizer handling facility and storage sheds, chemical storage sheds and a main plant office. 
+The idea is the “Brain child” of a coffee shop group of producers who are frustrated with the price of 
+key inputs on there own farms. Consideration has been given to a cooperative model to allow the 
+profits to flow back to the members. 
+The group of producers held a membership prospective meeting 4 months ago and was able to raise 
+the funds to have a qualified consultant conduct a detailed feasibility study to consider all aspects of 
+the potential business. 
+Now you have been asked to review the 2nd and 3 year balance sheets, income statements and 
+statements of cash flows from the feasibility study. The consultant has included comparative data 
+from common sized cooperatives retailing similar products. You are expected to make a formal 
+recommendations to the steering committee as to if the projections are realistic and achievable. 
+The capital cost in year one is estimated at $22.5 million. By year 3 the cooperative is to have raised 
+$22.287 million in Equity certificates, and have borrowed $10.677 million to fund operations. 
+You Report to the Steering Committee should include: 
+1.) Analysis of the Balance Sheet 
+2.) Analysis of the Income Statement 
+3.) Analysis of the Statement of Change 
+4.) Compare year 2 & 3 with Common Size Operations 
+5.) Recommendations to Proceed or Abandon 
+Table 1 – Farmer Cooperative’s balance sheet for years ended Dec 31, 2009 and 2010 
+2010 2009 
+Assets 
+Current Assets 
+ Cash and equivalents 113 7 
+ Accounts receivable 12,092 13,511 
+ Inventories 21,825 20,805 
+ Other current assets 333 274
+Total Current Assets 34,364 34,596 
+Investments
+ Bank for Cooperatives 3,679 3,225 
+ Other cooperatives 505 443 
+ Other businesses 0 0 
+ Other investments 0 0
+Total Investments 4,184 3,668 
+ Net plant, property & equipment 22,424 19,086 
+ Other assets 312 301 
+Total Assets 61,283 57,652 
+Liabilities and Members Equity 
+Current Liabilities 
+ Current portion long-term debt 1,246 1,783 
+ Seasonal notes and loans 8 9,188 
+ Trade accounts payable 20,389 13,234 
+ Cash payments to members 2,477 738 
+ Patron and pool liabilities 0 0 
+ Other current liabilities 2,001 1,054
+Total Current Liabilities 26,091 25,998 
+Long Term Debt 10,677 9,927 
+Other non-current liabilities 0 0 
+Minority Interests 0 0 
+Members’ Equity 
+ Allocated 
+ Preferred stock 288 320 
+ Common stock 89 90 
+ Equity certificates 22,387 19,589 
+ Unallocated equity 1,751 1,728
+Total Member Equity 24,515 21,727 
+Total Liabilities and Equity 61,283 57,652 
+Table 2 – Farmer Cooperative’s operating statement for years ended Dec 31, 2009 and 
+2010 
+2010 2009 
+Revenues 
+Fert/Chem Sales 73,513 76,700 
+ Fuel sales 46,710 46,053
+Total Sales 120,223 122,753 
+ Cost of sales 98,474 106,057 
+Gross Margin 21,749 16,695 
+ Other operating revenues 0 0
+Total Operating Revenue 21,749 16,695 
+Expenses: 
+ General and administrative 11,850 10,263 
+ Operating 2,759 2,836
+Net Operating Income 7,139 3,596 
+Other Revenues (expenses): 
+ Patronage refunds received 483 348 
+ Interest income 162 120 
+ Other income 31 107 
+ Interest expense (1,493) (2,095) 
+ Other expenses 0 0
+Net Income, Continuing Operations 6,322 2,076 
+ Other margin interests 0 0 
+ Discontinued operations 0 0 
+ Extraordinary items 0 0 
+Net Income Before Taxes 6,322 2,076 
+ Taxes 8 35
+Net Income to be Distributed 6,314 2,041 
+Table 3 – Farmer Cooperative’s statement of cash flows for years ended Dec 31, 2009 and 
+2010
+Adjustments to reconcile net margins to 
+net cash flows from operating activities 
+2010 2009 
+Dollars 
+Net Margins From Operations 6,315 2,041 
+ Depreciation and amortization 2,759 2,836 
+ Deferred taxes 0 0 
+ Loss (gain) from asset disposal 7 (74) 
+ Loss (gain) from investment disposal 0 0 
+ Patronage refunds received (non cash) (232) (221) 
+ Other cash adjustments 0 0 
+ Other non-cash operating adjustments 0 0 
+Cash From Operating Activities 8,848 4,582 
+Cash Provided (used) by Changes in Assets and Liabilities 
+ Receivables 1,419 89 
+ Inventories (1,022) 7,345 
+Other current assets (59) 88 
+Accounts pay 7,124 (4,188) 
+ Due patrons 0 0 
+ Other current liabilities 946 81 
+ Other assets and liabilities 0 0 
+Net Cash Flow Operating Activities 17,256 7,997 
+Cash Flows from Investing Activities: 
+ Purchases property, plant and equipment (6,113) (4,162) 
+ Proceeds sale or disposal PP&E 9 76 
+ Purchases, equity in cooperatives (284) (1) 
+ Redemptions equity in cooperatives 0 11 
+ Change in other investing activities (9) 131 
+Net Cash Flow Investing Activities (6,396) 3,946 
+Cash Flow from Financing Activities 
+ Net change in short-term liabilities 0 0 
+ Long Term bank debt 
+ Proceeds 40,964 47,848 
+ (Payments) (49,930) (49,858) 
+ Capital lease payments 0 0 
+ Stock transactions 
+ Proceeds 3 1 
+ (redemptions) (36) (7) 
+ Per-unit capital retains 0 0 
+ Equity certificates issues 0 0 
+ Equity certificates redeemed 0 0 
+ Cash patronage refunds (1,732) (2,007) 
+ Stock dividends (22) (28) 
+ Other financing adjustments 0 0 
+Net Cash Flow from Financing Activities (10,753) (4,051) 
+Net Change Cash and Equivalents 106 0 
+Cash at beginning of year 7 7 
+Cash at end of year 113 7 
+Supplemental Information 
+ Interest paid 1,697 2,056 
+ Income taxes paid 26 (5) 
+Table 4 – Farmer Cooperative’s statement of changes in allocated patronage refunds and 
+capital reserve for years ended Dec 31, 2009 and 2010 
+Unallocated Equity Allocated Equity 
+Dollars 
+Balance – Dec 31, 1999 1,567 19,701 
+Net Margins 2,041 
+Net Margins Allocated to Patrons (1,922) 1,922 
+Transfer 71 (71) 
+7% Dividend on Stock (29) 
+Patronage Distribution paid in cash 
+ 40 percent 2000 Patronage Refund (738) 
+ Allocated Patronage Revolvement (1,225) 
+Balance – Dec 31, 2000 1,728 19,589 
+Net Margins 6,314 
+Net Margins Allocated to Patrons (6,253) 6,253 
+Transfer (16) 16 
+7% Dividend on Stock (22) 
+Patronage Distribution paid in cash 
+ 40 percent 2000 Patronage Refund (2,477) 
+ Allocated Patronage Revolvement (993) 
+Balance – Dec 31, 2001 1,752 22,387 
+Table 5 – Farmer Cooperative’s common size balance sheet for years ended Dec 31, 2009 
+and 2010 
+2010 Farmers 
+2010 
+2009 Farmers 
+2009 
+Assets Percent 
+Current Assets 
+ Cash and equivalents 0.2 0.0 
+ Accounts receivable 19.7 23.4 
+ Inventories 35.6 36.1 
+ Other current assets 0.5 0.5 
+Total Current Assets 56.1 60.0 
+Investments
+ Bank for Cooperatives 6.0 5.6 
+ Other cooperatives 0.8 0.8 
+ Other businesses 0.0 0.0 
+ Other investments 0.0 0.0 
+Total Investments 6.8 6.4 
+ Net plant, property & 
+equipment 
+36.6 33.1 
+ Other assets 0.5 0.5 
+Total Assets 100.0 100.00 
+Liabilities and Members 
+Equity 
+Current liabilities 
+ Current portion long-term 
+debt 
+2.0 3.1 
+ Seasonal notes and loans 0.0 15.9 
+Total short-term liabilities 2.0 19.0 
+ Trade accounts payable 33.2 23.0 
+ Cash payments to members 4.0 1.3 
+ Patron and pool liabilities 0.0 0.0 
+ Other current liabilities 3.3 1.8 
+Total Current Liabilities 42.6 45.1 
+Long term debt 17.4 17.2 
+Other non-current liabilities 0.0 0.0 
+Minority Interests 0.0 0.0 
+Members’ Equity 
+ Allocated 
+ Preferred stock 0.5 0.6 
+ Common stock 0.1 0.2 
+ Equity certificates 36.5 34.0 
+ Unallocated equity 2.9 3.0 
+Total Member Equity 40.0 37.7 
+Total Liabilities and Equity 100.0 100.0 
+Table 6 – Farmer Cooperative’s common size operating statement for years ended Dec 31, 
+2009 and 2010 
+2010 Farmers 2010 2009 Farmers 2009
+Percent 
+Revenues 
+Marketing Sales 61.1 62.5 
+ Farm supply sales 38.9 37.5 
+Total Sales 100.0 100.0 
+ Cost of sales 81.9 86.4 
+Gross Margin 18.1 13.6 
+ Other operating 
+revenues 
+0.0 0.0 
+Total Operating 
+Revenue 
+18.1 13.6 
+Expenses: 
+ General and 
+administrative 
+9.9 8.4 
+ Operating 2.3 2.3 
+Net Operating Income 5.9 2.9 
+Other Revenues 
+(expenses): 
+ Patronage refunds 
+received 
+0.4 0.3 
+ Interest income 0.1 0.14 
+ Other income 0.0 0.1 
+ Interest expense (1.2) (1.7) 
+ Other expenses 0.0 0.0 
+Net Income, Continuing 
+Operations 
+5.3 1.7 
+ Other margin interests 0.0 0.0 
+ Discontinued 
+operations 
+0.0 0.0 
+ Extraordinary items 0.0 0.0 
+Net Income Before Taxes 5.3 1.7 
+ Taxes 0.0 0.0 
+Net Income to be 
+Distributed 
+5.3 1.7 
+Sample Templates 
+Project Plan 
+Client Name: Date: 
+Project Title: Project Number:
+Project Plan 
+Version:
+ 
+Project 
+Manager: Sponsor Name: 
+Project Mission: 
+Project Objective/Description/Scope: 
+Objectives: 
+Scope: 
+Scope: What’s In –: 
+Scope – What’s outside the boundaries of this project – the project excludes the 
+development/analysis of the following items: 
+o 
+o 
+o 
+o 
+o 
+Key Deliverables Acceptor Acceptance 
+/Signoff 
+Date 
+1. 
+2. 
+3. 
+4. 
+5. 
+Major Milestones Schedule Date 
+ 
+ 
+ 
+ 
+ 
+Key Strategies: 
+Key Dependencies:
+ 
+ 
+ 
+ 
+Name Role Key Responsibilities Effort (days) 
+ 
+ 
+ 
+ 
+ 
+Budget 
+Direct Costs: 
+Indirect Costs: 
+Total Costs: 
+Constraints: 
+Assumptions: 
+Environment: 
+Affected Groups in the Client Organization: 
+ 
+High Impact Risks - Description Trigger/Symptom Mitigation Strategy 
+ 
+ 
+Acceptance: 
+Sponsor 
+Name: 
+ Signature: 
+Title: Date: 
+Change Request 
+ 
+Project Name: CR #: 1 
+Requestor 
+Name: 
+ Request Date: 01/01/07 
+Project 
+Manager: 
+ Date Issued: 
+01/01/07 
+Project 
+Sponsor: 
+ Date Due: 
+01/01/07 
+Reason for Change Prepared by: 
+ 
+Description of Change Prepared by: 
+ 
+Budget Impact Prepared by: 
+ 
+Ramifications (eg. schedule and staffing) Prepared by: 
+ 
+PM Review: 
+Notes: 
+Name: 
+Signature: 
+Date: 01/01/07 
+Sponsor Review: 
+Notes: 
+Name: 
+Signature: 
+Date: 01/01/07 
+Project Status Report 
+Project Status Report 
+ 
+Project Name 
+For the reporting period starting - ending - 
+Business 
+Unit: Sponsor: 
+Project 
+Manager: 
+Project 
+Resources: 
+Client: 
+Project Description: 
+Description: 
+Project Objectives(s):
+Project Assessment Previous 
+(G =green, 
+Y = yellow, 
+R = red)
+Current 
+(G 
+=green, 
+Y = 
+yellow, R 
+= red) 
+Rationale (issues, changes) 
+Schedule 
+Budget 
+Staffing/Resources 
+Milestones Sched. 
+End 
+Planned 
+End 
+Key Issues / Decisions: 
+## Issue Description Date 
+Raised 
+Assigned 
+To 
+Action / 
+Resolution 
+Date to 
+Resolve 
+Status / 
+Impact 
+1 
+2 
+Risk Management: 
+Description of Risk Impact 
+(HML) 
+Prob. 
+(HML) 
+Status 
+Change Management: 
+# Change Description Date Approved 
+Submitted Y/N 
+1 
+2 
+Accomplishments this Period 
+Activities Planned for this Period not Completed:
+Major Activities Planned for Next Period from - To -
+Comments: 
+ 
+Change Request Log
+Request 
+#
+Issue 
+Date
+Description Status
+Request # Issue Date Description Due Date
+Client Sign Off 
+Project Name 
+Project 
+Manager 
+ 
+Date 
+Budget 
+ 
+Schedule 
+ 
+Conditions of Sign Off 
+ 
+ __________________________________ _ ______________ 
+Project Manager Sign off Date 
+ ___________________________________ _ ______________ 
+Sponsor / Client Sign off Date 
+Deliverables 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+Project Budget Sheet 
+- <Project name here> 
+Schedule Costs 
+Resource Description 
+Planned 
+Hours 
+(A) 
+Actual 
+to 
+date 
+(B) 
+Schedule 
+Variance 
+(A-B) 
+Rate 
+(E) 
+Planned 
+Cost (F) 
+(A*E) 
+Actual Costs 
+(G) (B*E) 
+Cost 
+Variance 
+(F-G) Notes 
+ 0 0 0 $0.00 $0.00 $0.00 $0.00 
+ 0 0 0 $0.00 $0.00 $0.00 $0.00 
+ 0 0 0 $0.00 $0.00 $0.00 $0.00 
+0 0 0 $0.00 $0.00 $0.00 $0.00 
+0 0 0 $0.00 $0.00 $0.00 $0.00 
+ 0 0 0 $0.00 $0.00 $0.00 $0.00 
+0 0 0 $0.00 $0.00 $0.00 $0.00 
+0 0 0 $0.00 $0.00 $0.00 $0.00 
+0 0 0 $0.00 $0.00 $0.00 $0.00 
+ 0 0 0 $0.00 $0.00 $0.00 $0.00 
+Total Schedule Costs 0 0 0 $0.00 $0.00 $0.00 
+Material Costs 
+Material Description Supplier Est'd Cost Actual Costs 
+Cost 
+Variance Notes 
+ $0.00 $0.00 $0.00 
+ $0.00 $0.00 $0.00 
+$0.00 $0.00 $0.00 
+$0.00 $0.00 $0.00 
+$0.00 $0.00 $0.00 
+Total Material Costs $0.00 $0.00 $0.00 
+Total Project Costs (Schedule + Material) $0.00 $0.00 $0.00 
+Sample invite to submit a proposal 
+A sample letter, in business format is shown: 
+Name Address 
+Address 
+Date 
+Supplier organization name 
+Address 
+Subject: Invitation to Submit a Proposal 
+Dear ______: 
+__________ requires professional _______ services. You are invited to submit a proposal for the 
+provision of those services. A description of the services we require is attached in the form of a 
+Request For Proposal. (Or: you may obtain a description of the services we require by contacting 
+______________. 
+In order to submit your proposal, please consider: 
+ The work would begin on _____ and be completed by ______. 
+ Your written proposal is to be submitted by (date) . 
+Please include the following in your responses: 
+1. Your team credentials 
+2. References for similar work 
+3. A statement of your understanding of the work, including pricing components 
+4. Other items as defined by your organization 
+Please submit responses to: Name 
+ Address 
+ Address 
+Yours truly, 
+Name of Signature 
+1. Title Page 
+Request for Proposal 
+Title of Project or Service Requested 
+Contact Manager: Name 
+Telephone: # 
+Fax: # 
+Email: name@company.com 
+Proposal Closing Date/Time: 
+Sample Agreement 
+Source of this sample: 
+AgMRC (Ag Marketing Resource Center) 
+Iowa State University 
+Mark J. Hanson
+Joe R. Thompson
+Joel J. Dahlgren
+Lindquist & Vennum, PLLP
+4200 IDS Center, 80 S 8th Street, Minneapolis, MN 55402 
+This Consulting Agreement, dated effective _____________, 200___ (this “Agreement”), is made 
+and entered into by and among ___________________ [name of the Company], a [state of 
+incorporation and business structure] (the “Company”) and [name of consultant] (the “Consultant”). 
+ARTICLE 1 - SCOPE OF WORK 
+1.1 Services - The Company has engaged Consultant to provide services in connection with the 
+Company’s [summary of the project or business of the Company]. Consultant will [summary of the 
+services Consultant is to provide], and such other services as described at Exhibit A (collectively, the 
+“consulting services”). 
+1.2 Time and Availability - Consultant will devote _______ hours per month in performing the 
+services for the Company as stated herein. Consultant shall have discretion in selecting the dates 
+and times it performs such consulting services throughout the month giving due regard to the needs 
+of the Company’s business., If the Company deems it necessary for the Consultant to provide more 
+than ________ hours in any month, Consultant is not obligated to undertake such work until the 
+Consultant and Company have agreed on a rate of compensation. [The time devoted can be hours 
+per day, per week, or per year. The Company may also elect to pay a flat monthly fee regardless of 
+hours, but the Company should be cautious of this approach.] 
+1.3 Confidentiality - In order for Consultant to perform the consulting services, it may be 
+necessary for the Company to provide Consultant with Confidential Information (as defined below) 
+regarding the Company’s business and products. The Company will rely heavily upon Consultant’s 
+integrity and prudent judgment to use this information only in the best interests of the Company. 
+1.4 Standard of Conduct - In rendering consulting services under this Agreement, Consultant shall 
+conform to high professional standards of work and business ethics. Consultant shall not use time, 
+materials, or equipment of the Company without the prior written consent of the Company. In no 
+event shall Consultant take any action or accept any assistance or engage in any activity that would 
+result in any university, governmental body, research institute or other person, entity or 
+organization acquiring any rights of any nature in the results of work performed by or for the 
+Company. 
+1.5 Outside Services - Consultant shall not use the service of any other person, entity or 
+organization in the performance of Consultant’s duties without the prior written consent of an officer 
+of the Company. Should the Company consent to the use by Consultant of the services of any other 
+person, entity or organization, no information regarding the services to be performed under this 
+Agreement shall be disclosed to that person, entity or organization until such person, entity or 
+organization has executed an agreement to protect the confidentiality of the Company’s Confidential 
+Information (as defined below) and the Company’s absolute and complete ownership of all right, title 
+and interest in the work performed under this Agreement. 
+1.6 Reports - Consultant shall periodically provide the Company with written reports of his 
+observations and conclusions regarding the consulting services. Upon the termination of this 
+Agreement, Consultant shall, upon the request of Company, prepare a final report of Consultant’s 
+activities. 
+ARTICLE 2 - INDEPENDENT CONTRACTOR
+2.1 Independent Contractor - Consultant is an independent contractor and is not an employee, 
+partner, or co-venturer of, or in any other service relationship with, the Company. The manner in 
+which Consultant’s services are rendered shall be within Consultant’s sole control and discretion. 
+Consultant is not authorized to speak for, represent, or obligate the Company in any manner without 
+the prior express written authorization from an officer of the Company. 
+2.2 Taxes - Consultant shall be responsible for all taxes arising from compensation and other 
+amounts paid under this Agreement, and shall be responsible for all payroll taxes and fringe benefits 
+of Consultant’s employees. Neither federal, nor state, nor local income tax, nor payroll tax of any 
+kind, shall be withheld or paid by the Company on behalf of Consultant or its employees. Consultant 
+understands that it is responsible to pay, according to law, Consultant’s taxes and Consultant shall, 
+when requested by the Company, properly document to the Company that any and all federal and 
+state taxes have been paid. 
+2.3 Benefits - Consultant and Consultant’s employees will not be eligible for, and shall not 
+participate in, any employee pension, health, welfare, or other fringe benefit plan, of the Company. 
+No workers' compensation insurance shall be obtained by Company covering Consultant or 
+Consultant’s employees. 
+ARTICLE 3 - COMPENSATION FOR CONSULTING SERVICES
+3.1 Compensation - The Company shall pay to Consultant $_________ per month for services 
+rendered to the Company under this Agreement. The monthly compensation shall be paid on the 
+first of the month following the month the services were provided. The monthly compensation shall 
+be paid regardless of the number of consulting hours provided by Consultant in a particular month. 
+[Another option is to pay hourly and require monthly time documentation. The monthly 
+compensation would be reduced by the hourly rate for the number of hours less than the devoted 
+hours.] 
+3.2 Reimbursement - The Company agrees to reimburse Consultant for all actual reasonable and 
+necessary expenditures, which are directly related to the consulting services. These expenditures 
+include, but are not limited to, expenses related to travel (i.e. airfare, hotel, temporary housing, 
+meals, parking, taxis, mileage, etc.), telephone calls, and postal expenditure. Expenses incurred by 
+Consultant will be reimbursed by the Company within 15 days of Consultant’s proper written request 
+for reimbursement. 
+ARTICLE 4 - TERM AND TERMINATION
+4.1 Term - This Agreement shall be effective as of _________, 200__, and shall continue in full 
+force and effect for ____ consecutive months. The Company and Consultant may negotiate to 
+extend the term of this Agreement and the terms and conditions under which the relationship shall 
+continue. 
+4.2 Termination - The Company may terminate this Agreement for “Cause,” after giving Consultant 
+written notice of the reason. Cause means: (1) Consultant has breached the provisions of Article 5 
+or 7 of this Agreement in any respect, or materially breached any other provision of this Agreement 
+and the breach continues for 30 days following receipt of a notice from the Company; (2) Consultant 
+has committed fraud, misappropriation or embezzlement in connection with the Company’ s 
+business; (3) Consultant has been convicted of a felony, or (4) Consultant’s use of narcotics, liquor 
+or illicit drugs has a detrimental effect on the performance of her employment responsibilities, as 
+determined by the Company. 
+4.3 Responsibility upon Termination - Any equipment provided by the Company to the 
+Consultant in connection with or furtherance of Consultant’s services under this Agreement, 
+including, but not limited to, computers, laptops, and personal management tools, shall, 
+immediately upon the termination of this Agreement, be returned to the Company. 
+4.4 Survival - The provisions of Articles 5, 6, 7 and 8 of this Agreement shall survive the 
+termination of this Agreement and remain in full force and effect thereafter. 
+ARTICLE 5 - CONFIDENTIAL INFORMATION
+5.1 Obligation of Confidentiality - In performing consulting services under this Agreement, 
+Consultant may be exposed to and will be required to use certain “Confidential Information” (as 
+hereinafter defined) of the Company. Consultant agrees that Consultant will not and Consultant’s 
+employees, agents or representatives will not, use, directly or indirectly, such Confidential 
+Information for the benefit of any person, entity or organization other than the Company, or disclose 
+such Confidential Information without the written authorization of the President of the Company, 
+either during or after the term of this Agreement, for as long as such information retains the 
+characteristics of Confidential Information. 
+5.2 Definition - “Confidential Information” means information, not generally known, and 
+proprietary to the Company or to a third party for whom the Company is performing work, including, 
+without limitation, information concerning any patents or trade secrets, confidential or secret 
+designs, processes, formulae, source codes, plans, devices or material, research and development, 
+proprietary software, analysis, techniques, materials or designs (whether or not patented or 
+patentable), directly or indirectly useful in any aspect of the business of the Company, any vendor 
+names, customer and supplier lists, databases, management systems and sales and marketing plans 
+of the Company, any confidential secret development or research work of the Company, or any other 
+confidential information or proprietary aspects of the business of the Company. All information 
+which Consultant acquires or becomes acquainted with during the period of this Agreement, whether 
+developed by Consultant or by others, which Consultant has a reasonable basis to believe to be 
+Confidential Information, or which is treated by the Company as being Confidential Information, 
+shall be presumed to be Confidential Information. 
+5.3 Property of the Company - Consultant agrees that all plans, manuals and specific materials 
+developed by the Consultant on behalf of the Company in connection with services rendered under 
+this Agreement, are and shall remain the exclusive property of the Company. Promptly upon the 
+expiration or termination of this Agreement, or upon the request of the Company, Consultant shall 
+return to the Company all documents and tangible items, including samples, provided to Consultant 
+or created by Consultant for use in connection with services to be rendered hereunder, including 
+without limitation all Confidential Information, together with all copies and abstracts thereof. 
+ARTICLE 6 - RIGHTS AND DATA
+6.1 Data - All drawings, models, designs, formulas, methods, documents and tangible items 
+prepared for and submitted to the Company by Consultant in connection with the services rendered 
+under this Agreement shall belong exclusively to the Company and shall be deemed to be works 
+made for hire (the “Deliverable Items”). To the extent that any of the Deliverable Items may not, 
+by operation of law, be works made for hire, Consultant hereby assigns to the Company the 
+ownership of copyright or mask work in the Deliverable Items, and the Company shall have the right 
+to obtain and hold in its own name any trademark, copyright, or mask work registration, and any 
+other registrations and similar protection which may be available in the Deliverable Items. 
+Consultant agrees to give the Company or its designees all assistance reasonably required to perfect 
+such rights. 
+ARTICLE 7 - CONFLICT OF INTEREST AND NON-SOLICITATION
+7.1 Conflict of Interest - Consultant covenants and agrees not to consult or provide any services 
+in any manner or capacity to a direct competitor of the Company during the duration of this 
+Agreement unless express written authorization to do so is given by the Company’s President. A 
+direct competitor of the Company for purposes of this Agreement is defined as any individual, 
+partnership, corporation and/or other business entity that engages in the business of [define 
+business – substantially similar to what is provided at Section 1.1] within _____ miles of the 
+[facility, headquarters, etc.]. 
+7.2 Non-Solicitation - Consultant covenants and agrees that during the term of this Agreement, 
+Consultant will not, directly or indirectly, through an existing corporation, unincorporated business, 
+affiliated party, successor employer, or otherwise, solicit, hire for employment or work with, on a 
+part-time, consulting, advising or any other basis, other than on behalf of the Company any 
+employee or independent contractor employed by the Company while Consultant is performing 
+services for the Company. 
+ARTICLE 8 - RIGHT TO INJUNCTIVE RELIEF
+Consultant acknowledges that the terms of Articles 5, 6, and 7 of this Agreement are reasonably 
+necessary to protect the legitimate interests of the Company, are reasonable in scope and duration, 
+and are not unduly restrictive. Consultant further acknowledges that a breach of any of the terms of 
+Articles 5, 6, or 7 of this Agreement will render irreparable harm to the Company, and that a remedy 
+at law for breach of the Agreement is inadequate, and that the Company shall therefore be entitled 
+to seek any and all equitable relief, including, but not limited to, injunctive relief, and to any other 
+remedy that may be available under any applicable law or agreement between the parties. 
+Consultant acknowledges that an award of damages to the Company does not preclude a court from 
+ordering injunctive relief. Both damages and injunctive relief shall be proper modes of relief and are 
+not to be considered as alternative remedies. 
+ARTICLE 9 - GENERAL PROVISIONS
+9.1 Construction of Terms - If any provision of this Agreement is held unenforceable by a court of 
+competent jurisdiction, that provision shall be severed and shall not affect the validity or 
+enforceability of the remaining provisions. 
+9.2 Governing Law - This Agreement shall be governed by and construed in accordance with the 
+internal laws (and not the laws of conflicts) of the State of [governing law]. 
+9.3 Complete Agreement - This Agreement constitutes the complete agreement and sets forth the 
+entire understanding and agreement of the parties as to the subject matter of this Agreement and 
+supersedes all prior discussions and understandings in respect to the subject of this Agreement, 
+whether written or oral. 
+9.4 Dispute Resolution - If there is any dispute or controversy between the parties arising out of 
+or relating to this Agreement, the parties agree that such dispute or controversy will be arbitrated in 
+accordance with proceedings under American Arbitration Association rules, and such arbitration will 
+be the exclusive dispute resolution method under this Agreement. The decision and award 
+determined by such arbitration will be final and binding upon both parties. All costs and expenses, 
+including reasonable attorney’s fees and expert’s fees, of all parties incurred in any dispute which is 
+determined and/or settled by arbitration pursuant to this Agreement will be borne by the party 
+determined to be liable in respect of such dispute; provided, however, that if complete liability is not 
+assessed against only one party, the parties will share the total costs in proportion to their 
+respective amounts of liability so determined. Except where clearly prevented by the area in 
+dispute, both parties agree to continue performing their respective 
+obligations under this Agreement until the dispute is resolved. 
+9.5 Modification - No modification, termination or attempted waiver of this Agreement, or any 
+provision thereof, shall be valid unless in writing signed by the party against whom the same is 
+sought to be enforced. 
+9.6 Waiver of Breach - The waiver by a party of a breach of any provision of this Agreement by 
+the other party shall not operate or be construed as a waiver of any other or subsequent breach by 
+the party in breach. 
+9.7 Successors and Assigns - This Agreement may not be assigned by either party without the 
+prior written consent of the other party; provided, however, that the Agreement shall be assignable 
+by the Company without Consultant’s consent in the event the Company is acquired by or merged 
+into another corporation or business entity. The benefits and obligations of this Agreement shall be 
+binding upon and inure to the parties hereto, their successors and assigns. 
+9.8 No Conflict - Consultant warrants that Consultant has not previously assumed any obligations 
+inconsistent with those undertaken by Consultant under this Agreement. 
+IN WITNESS WHEREOF, this Agreement is executed as of the date set forth above. 
+ [COMPANY] 
+By: 
+[CONSULTANT] 
+By: 
+Title: 
+Title: 
+Analysis of major competitors 
+The following table provides an outline of the types of questions that at minimum must be answered 
+in an analysis of the major competitors in the industry being studied: 
+Analysis of major competitors 
+Company #1 Company #2 Company #3 Company #4 Company #5 
+History of the Business 
+Key Trends 
+Key Historical Events 
+Ownership 
+Organizational Structure 
+Corporate Governance 
+Management Strengths 
+Management Approach 
+Number or Employees 
+Abilities of Key 
+Employees 
+Compensation 
+Benefits 
+Business 
+Locations/Facilities: 
+Head Offices 
+Production Plants 
+Plant Capacities 
+Utilization Rate 
+Effective Age of the 
+Plants 
+Plant Efficiency 
+Total Capital Investment 
+Shipping Logistics 
+Analysis of major competitors 
+Company #1 Company #2 Company #3 Company #4 Company #5
+Product Mix by Plant 
+Products/Services 
+Brands 
+Brand Loyalty 
+Product Line 
+Product Mix 
+Quality Control 
+Patents/Licenses 
+Research & 
+Development 
+New Products 
+Marketing Strategies 
+Vision 
+Mission 
+Growth Plans 
+Acquisitions 
+Strategy 
+Marketing 
+Customer Base 
+Customer Loyalty 
+Customer Growth Rate 
+Market Segments 
+Pricing 
+Discounts 
+Allowances 
+Advertising/Promotion 
+Budget 
+Types of Advertising 
+Distribution 
+Distribution Channels 
+Analysis of major competitors 
+Company #1 Company #2 Company #3 Company #4 Company #5 
+Company Alliances 
+Geographic Market 
+Consider the Following 
+Factors: Location 1 Location 2 Location 3 Location 4 Location 5 
+1.) Availability and Price of 
+Raw Materials
+ 
+a. Raw material readily 
+available at competitive 
+price? (Historical price 
+patterns & availability) 
+ 
+b. Is suitable storage & 
+handling facilities available 
+ 
+2.) Access to Markets 
+a. Proximity of site to 
+market? 
+ 
+b. Proximity of site to 
+disposal areas for biproducts? 
+c. Is storage required? 
+d. Does the site provide a 
+competitive advantage over 
+the competition? 
+ 
+3.) Labour Market 
+a. How many employees 
+are required on a shift 
+basis? 
+ 
+b. Are the labour skills 
+required for the business 
+(process/manufacturing) 
+available in the area? 
+c. Are the labour rates 
+competitive with the 
+competition? 
+ 
+d. Who are the main 
+competitors for labour? 
+e. Is there reasonably 
+priced 
+housing/accommodations 
+available for the labour 
+force? 
+ 
+f. Are their training courses 
+available at public 
+institutions? 
+ 
+4.) Utilities 
+a. Availability of utilities 
+- Is electrical service 
+available? 
+ 
+- What is the cost 
+per kilowatt hour 
+ 
+- Is the cost 
+competitive with 
+competitors cost? 
+ 
+b. Is gas service available? 
+- What is the cost per 
+cubic foot? 
+ 
+Is the cost competitive 
+with competitors’ costs? 
+c. Is water service 
+available? 
+ 
+- What is the cost of the 
+water? 
+ 
+- Is the cost competitive 
+with competitors’ costs? 
+Consider the Following 
+Factors: Location 1 Location 2 Location 3 Location 4 Location 5 
+- What is the cost of the 
+water? 
+ 
+- Is the cost competitive 
+with competitors’ costs? 
+- Is the water suitable 
+for the manufacturing 
+process? 
+d. Is sewer system 
+available? 
+ 
+- Will the effluent have 
+to be pretreated? 
+ 
+e. Is the city/town/rural 
+municipality willing to pay 
+the utility improvement 
+required? 
+ 
+5.) Zoning 
+a. Is the area zoned for the 
+type of development 
+required? 
+ 
+- Zoning regulations? 
+- What is the length of 
+time to have property 
+zoned for development? 
+ 
+- Will the 
+community/neighbors 
+accept the type of 
+development/operation 
+of the business required 
+to be successful? 
+ 
+b. Environmental 
+Assessment 
+ 
+- What level of 
+environmental study will 
+be required? 
+ 
+- What is the cost of the 
+environmental study? 
+- Who pays for the 
+environmental study? 
+6. Transportation 
+a. Are the types of 
+transportation required by 
+the business available? 
+(Highway/rail/inter - 
+cargo/air) 
+ 
+- What are the costs to 
+market? 
+ 
+- Is their competition for 
+transportation? 
+- Will the 
+city/town/rural 
+municipality pay for 
+infrastructure 
+installation or upgrade? 
+ 
+7.) Site Characteristics 
+a. Site Topography 
+- Is the site topography 
+suitable for the building 
+improvements? 
+ 
+- Are there physical 
+encumbrances that will 
+require additional cost? 
+ 
+Consider the Following 
+Factors:
+Location 1 Location 2 Location 3 Location 4 Location 5 
+- Well drained soils? 
+- What excavation will 
+be required to prepare 
+the site? 
+ 
+8.) What is the purchase price 
+of the property? 
+ 
+a. Will the site appreciate in 
+value over time? 
+ 
+b. Is the city/town/rural 
+municipality willing to 
+provide incentives to locate 
+to their community? 
+ 
+c. What are the property 
+taxes? 
+ 
+- Are the taxes 
+competitive with other 
+jurisdictions? 
+ 
+- Will the city/town/rural 
+municipality provide tax 
+incentives 
+ 
+9.) What is the business 
+climate? 
+ 
+a. Local level? 
+b. Provincial level? 
