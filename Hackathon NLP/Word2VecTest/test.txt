@@ -1,1 +1,1 @@
-
+GoogleNewsSmall.bin and GoogleNews.bin files would go in this folder
