@@ -1,1 +1,3 @@
 GoogleNewsSmall.bin and GoogleNews.bin files would go in this folder
+
+Link to news word2vec training data: https://drive.google.com/drive/folders/1rHcL992AhiCj4IPZ0EDgncbbfgELIn9p?usp=sharing 
